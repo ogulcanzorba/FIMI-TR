@@ -1,0 +1,410 @@
+post_id,user_id,text,timestamp,account_created_at,source_platform,mentions,repost_of,cluster
+P-0070,b3db8c92515d,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T19:34:46.848857,2026-06-22T17:40:46.848857,Telegram,b3db8c92515d,,Kampanya2
+P-0089,b3db8c92515d,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T22:00:46.848857,2026-06-22T17:40:46.848857,Twitter,,P-0082,Kampanya2
+P-0200,f1ecd708246b,"Pazardan meyve aldim, cok taze",2026-06-18T21:06:46.848857,2026-03-22T17:40:46.848857,Twitter,,,Organik
+P-0161,04fa704f5073,"Yeni tarif denedim, makarna harika oldu",2026-06-14T23:14:46.848857,2026-05-27T17:40:46.848857,Twitter,,,Organik
+P-0069,8b6d5b997b72,Bugun ise giderken trafik yogundu,2026-06-05T19:32:46.848857,2026-04-05T17:40:46.848857,Twitter,618973e16c5c,P-0057,Organik
+P-0164,1286b68a882e,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-15T14:54:46.848857,2026-02-04T17:40:46.848857,Twitter,,P-0157,Organik
+P-0142,624a0eefbc27,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-12T07:16:46.848857,2026-05-28T17:40:46.848857,Twitter,86464ea38e28,,Organik
+P-0082,33e4ae89197a,"Yogun bir gundu, sonunda eve geldim",2026-06-06T17:17:46.848857,2026-01-09T17:40:46.848857,Haber,,,Organik
+P-0107,d23c1e33b097,"Pazardan meyve aldim, cok taze",2026-06-09T17:46:46.848857,2026-05-25T17:40:46.848857,Twitter,,,Organik
+P-0227,e1efe4322b03,"Kedim hastalandi, veterinere goturmek lazim",2026-06-21T22:35:46.848857,2026-03-04T17:40:46.848857,Twitter,,,Organik
+P-0080,871552dbdfd3,Cocukken oynadigim oyunlari hatirladim da ne guzel gunlerdi,2026-06-06T08:50:46.848857,2026-04-03T17:40:46.848857,Haber,,,Organik
+P-0011,2e9f7c28cb58,"Teknoloji harika seyler, yeni telefonum geldi",2026-05-30T22:07:46.848857,2026-01-05T17:40:46.848857,Twitter,,,Organik
+P-0193,13e059b5eb28,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-18T09:05:46.848857,2026-04-13T17:40:46.848857,Haber,,,Organik
+P-0004,4ebea9475ac7,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T06:37:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0023,9f9c95cb326c,"Bu kitabi kesinlikle okumalisiniz, harika",2026-05-30T09:20:46.848857,2026-01-16T17:40:46.848857,Twitter,,,Organik
+P-0090,cdbb4249faf4,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T22:41:46.848857,2026-06-22T17:40:46.848857,Twitter,100b70733ef1,,Kampanya2
+P-0075,8b6d5b997b72,"Istanbul'da yeni bir sergi acildi, gormeye gidecegim",2026-06-05T09:33:46.848857,2026-04-05T17:40:46.848857,Twitter,,,Organik
+P-0032,618973e16c5c,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-01T07:38:46.848857,2026-04-09T17:40:46.848857,Twitter,,,Organik
+P-0035,100b70733ef1,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T12:47:46.848857,2026-06-22T17:40:46.848857,Telegram,4ebea9475ac7,,Kampanya2
+P-0255,42818e9cf793,Deniz kenarinda yurumek insanin icini aciyor,2026-06-24T12:48:46.848857,2026-03-04T17:40:46.848857,Twitter,,P-0251,Organik
+P-0045,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T14:49:46.848857,2026-06-22T17:40:46.848857,Twitter,b3db8c92515d,P-0037,Kampanya2
+P-0289,624a0eefbc27,"Istanbul'da yeni bir sergi acildi, gormeye gidecegim",2026-06-27T20:12:46.848857,2026-05-28T17:40:46.848857,Twitter,,,Organik
+P-0003,ad02fc85bb76,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-26T09:14:46.848857,2026-06-24T17:40:46.848857,Telegram,8f8ae7647ec0,,Kampanya1
+P-0037,13e059b5eb28,"Istanbul'da yeni bir sergi acildi, gormeye gidecegim",2026-06-01T21:26:46.848857,2026-04-13T17:40:46.848857,Twitter,,,Organik
+P-0115,006c0b18c851,Cocukken oynadigim oyunlari hatirladim da ne guzel gunlerdi,2026-06-10T11:06:46.848857,2026-05-05T17:40:46.848857,Twitter,,,Organik
+P-0036,a8d943b1eb88,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T12:15:46.848857,2026-06-22T17:40:46.848857,Twitter,4ebea9475ac7,P-0033,Kampanya2
+P-0172,c1ae4ec53cda,"Yogun bir gundu, sonunda eve geldim",2026-06-15T17:58:46.848857,2026-04-18T17:40:46.848857,Twitter,,,Organik
+P-0214,90d619ee1ace,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-06-20T21:20:46.848857,2026-02-09T17:40:46.848857,Telegram,ededb058504f,,Organik
+P-0259,524546f1feff,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-06-24T09:19:46.848857,2026-03-03T17:40:46.848857,Twitter,,,Organik
+P-0103,618973e16c5c,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-09T17:53:46.848857,2026-04-09T17:40:46.848857,Haber,624a0eefbc27,,Organik
+P-0054,cdbb4249faf4,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-25T16:21:46.848857,2026-06-22T17:40:46.848857,Twitter,a8d943b1eb88,P-0049,Kampanya2
+P-0049,cdbb4249faf4,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T15:38:46.848857,2026-06-22T17:40:46.848857,Twitter,a8d943b1eb88,P-0043,Kampanya2
+P-0231,18006da415a9,Sabah sporu yapmak insana iyi geliyor,2026-06-21T20:10:46.848857,2026-04-21T17:40:46.848857,Haber,,,Organik
+P-0148,33e4ae89197a,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-13T23:28:46.848857,2026-01-09T17:40:46.848857,Twitter,e1efe4322b03,,Organik
+P-0280,2207c71b316a,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-26T09:10:46.848857,2026-02-27T17:40:46.848857,Telegram,,,Organik
+P-0111,68579a54985c,"Yeni tarif denedim, makarna harika oldu",2026-06-09T14:13:46.848857,2026-02-07T17:40:46.848857,Twitter,,,Organik
+P-0220,16d67631b674,Sinemaya gittim film cok iyiydi,2026-06-20T10:22:46.848857,2026-01-18T17:40:46.848857,Twitter,,,Organik
+P-0235,cf2bff7179ef,"Yeni bir kafe kesfettim, kahveleri cok iyi",2026-06-22T19:31:46.848857,2026-01-12T17:40:46.848857,Telegram,,P-0222,Organik
+P-0015,b615d000e36f,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-05-30T21:05:46.848857,2026-03-15T17:40:46.848857,Twitter,de12e21c767c,,Organik
+P-0226,b0353b085c58,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-21T14:18:46.848857,2026-01-23T17:40:46.848857,Twitter,,,Organik
+P-0096,8b6d5b997b72,"Bugun mac vardi, bizim takim kazandi",2026-06-08T22:01:46.848857,2026-04-05T17:40:46.848857,Twitter,,,Organik
+P-0146,08c5ad1c2b70,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-06-12T14:43:46.848857,2026-04-06T17:40:46.848857,Twitter,,,Organik
+P-0029,f81eaaeb364f,Hafta sonu plani yapana kadar aksam oldu,2026-05-31T20:55:46.848857,2026-01-03T17:40:46.848857,Telegram,,,Organik
+P-0144,1286b68a882e,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-12T18:39:46.848857,2026-02-04T17:40:46.848857,Twitter,,,Organik
+P-0188,90d619ee1ace,"Komsu davetiye gondermis, aksam yemege gidecegiz",2026-06-17T19:59:46.848857,2026-02-09T17:40:46.848857,Twitter,,,Organik
+P-0067,cdbb4249faf4,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T19:16:46.848857,2026-06-22T17:40:46.848857,Telegram,100b70733ef1,,Kampanya2
+P-0003,4ebea9475ac7,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T06:04:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0088,cdbb4249faf4,Deprem sigortasi yaptirmayanlar pisman olacak,2026-06-25T22:31:46.848857,2026-06-22T17:40:46.848857,Twitter,100b70733ef1,P-0080,Kampanya2
+P-0288,dfafce1382c7,Aksam yuruyusu yapmak uyku kalitesini artiriyor,2026-06-27T14:41:46.848857,2026-05-22T17:40:46.848857,Twitter,13e059b5eb28,,Organik
+P-0113,b0353b085c58,"Komsu davetiye gondermis, aksam yemege gidecegiz",2026-06-10T19:23:46.848857,2026-01-23T17:40:46.848857,Twitter,,,Organik
+P-0031,b3db8c92515d,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T11:15:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0250,4c101e93d6c2,"Yogun bir gundu, sonunda eve geldim",2026-06-23T10:37:46.848857,2026-03-16T17:40:46.848857,Twitter,13e059b5eb28,,Organik
+P-0051,f81eaaeb364f,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-06-03T08:28:46.848857,2026-01-03T17:40:46.848857,Twitter,,,Organik
+P-0018,c06347724a46,"Sebeke coktu, hukumet aciklama yapmaktan kaciniyor",2026-06-26T12:38:46.848857,2026-06-24T17:40:46.848857,Haber,,,Kampanya1
+P-0010,524546f1feff,"Yogun bir gundu, sonunda eve geldim",2026-05-30T21:58:46.848857,2026-03-03T17:40:46.848857,Twitter,b0353b085c58,,Organik
+P-0173,0019ac0ce900,"Komsu davetiye gondermis, aksam yemege gidecegiz",2026-06-15T07:16:46.848857,2026-03-12T17:40:46.848857,Telegram,,,Organik
+P-0004,fe7e5e2d5c53,"Sebeke coktu, hukumet aciklama yapmaktan kaciniyor",2026-06-26T09:09:46.848857,2026-06-24T17:40:46.848857,Twitter,,,Kampanya1
+P-0268,c66b9193f8f4,Dizi onerisi olan var mi? Yeni ne izlesem bilemedim,2026-06-25T10:32:46.848857,2026-04-16T17:40:46.848857,Twitter,,P-0261,Organik
+P-0136,618973e16c5c,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-06-12T22:11:46.848857,2026-04-09T17:40:46.848857,Haber,,P-0126,Organik
+P-0005,e1efe4322b03,"Yeni bir hobi edindim, resim yapmaya basladim",2026-05-29T18:33:46.848857,2026-03-04T17:40:46.848857,Twitter,,,Organik
+P-0033,100b70733ef1,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T12:07:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0206,889c0803ab77,"Yeni bir kafe kesfettim, kahveleri cok iyi",2026-06-19T22:08:46.848857,2026-03-27T17:40:46.848857,Telegram,,,Organik
+P-0265,2e9f7c28cb58,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-06-24T15:49:46.848857,2026-01-05T17:40:46.848857,Telegram,,,Organik
+P-0258,e1efe4322b03,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-06-24T16:05:46.848857,2026-03-04T17:40:46.848857,Twitter,,,Organik
+P-0263,2207c71b316a,"Istanbul'da yeni bir sergi acildi, gormeye gidecegim",2026-06-24T07:21:46.848857,2026-02-27T17:40:46.848857,Twitter,,,Organik
+P-0145,524546f1feff,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-12T18:26:46.848857,2026-03-03T17:40:46.848857,Haber,,,Organik
+P-0091,7f11ccc040f7,"Pazardan meyve aldim, cok taze",2026-06-07T07:47:46.848857,2026-03-30T17:40:46.848857,Haber,950c555a627e,,Organik
+P-0198,86464ea38e28,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-18T11:17:46.848857,2026-02-13T17:40:46.848857,Twitter,,,Organik
+P-0140,ef8ac0e4c078,Bugun ise giderken trafik yogundu,2026-06-12T19:52:46.848857,2026-02-03T17:40:46.848857,Twitter,f1ecd708246b,,Organik
+P-0005,8d7bf4456dcf,Bu buyuklukte bir kesinti daha once yasanmamisti,2026-06-26T09:22:46.848857,2026-06-24T17:40:46.848857,Twitter,,,Kampanya1
+P-0049,c24f760f01cb,Bugun ise giderken trafik yogundu,2026-06-03T15:37:46.848857,2026-04-21T17:40:46.848857,Twitter,,P-0035,Organik
+P-0034,100b70733ef1,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T12:48:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0074,a8d943b1eb88,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T20:48:46.848857,2026-06-22T17:40:46.848857,Telegram,100b70733ef1,,Kampanya2
+P-0080,cdbb4249faf4,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T21:31:46.848857,2026-06-22T17:40:46.848857,Telegram,cdbb4249faf4,,Kampanya2
+P-0243,b615d000e36f,Dizi onerisi olan var mi? Yeni ne izlesem bilemedim,2026-06-23T09:23:46.848857,2026-03-15T17:40:46.848857,Twitter,,,Organik
+P-0155,6a386840cd56,Hafta sonu plani yapana kadar aksam oldu,2026-06-14T14:53:46.848857,2026-04-19T17:40:46.848857,Twitter,,,Organik
+P-0197,866e41084f21,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-18T09:46:46.848857,2026-03-14T17:40:46.848857,Twitter,,,Organik
+P-0008,4ebea9475ac7,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T07:39:46.848857,2026-06-22T17:40:46.848857,Haber,b3db8c92515d,P-0006,Kampanya2
+P-0128,33e4ae89197a,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-11T15:18:46.848857,2026-01-09T17:40:46.848857,Twitter,,,Organik
+P-0098,e57f2d113587,Muzik dinlemek her seye iyi geliyor,2026-06-08T09:08:46.848857,2026-02-10T17:40:46.848857,Twitter,,,Organik
+P-0077,90d619ee1ace,"Evdeki bitkiler buyudu, saksı degistirme vakti",2026-06-05T18:50:46.848857,2026-02-09T17:40:46.848857,Telegram,68579a54985c,,Organik
+P-0201,ef8ac0e4c078,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-06-19T21:21:46.848857,2026-02-03T17:40:46.848857,Telegram,,,Organik
+P-0121,42818e9cf793,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-06-10T08:37:46.848857,2026-03-04T17:40:46.848857,Telegram,,,Organik
+P-0063,cdbb4249faf4,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T18:52:46.848857,2026-06-22T17:40:46.848857,Telegram,,P-0058,Kampanya2
+P-0087,b615d000e36f,"Bugun mac vardi, bizim takim kazandi",2026-06-06T08:04:46.848857,2026-03-15T17:40:46.848857,Twitter,,,Organik
+P-0102,624a0eefbc27,"Komsu davetiye gondermis, aksam yemege gidecegiz",2026-06-09T09:32:46.848857,2026-05-28T17:40:46.848857,Twitter,,,Organik
+P-0117,9f9c95cb326c,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-10T21:09:46.848857,2026-01-16T17:40:46.848857,Twitter,,,Organik
+P-0106,f81491f52ced,Muzik dinlemek her seye iyi geliyor,2026-06-09T08:10:46.848857,2026-02-26T17:40:46.848857,Twitter,,,Organik
+P-0241,d75555e64e06,Muzik dinlemek her seye iyi geliyor,2026-06-22T10:59:46.848857,2026-03-30T17:40:46.848857,Twitter,,,Organik
+P-0176,f81eaaeb364f,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-06-16T22:11:46.848857,2026-01-03T17:40:46.848857,Haber,,,Organik
+P-0120,42818e9cf793,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-06-10T07:38:46.848857,2026-03-04T17:40:46.848857,Haber,,,Organik
+P-0202,e57f2d113587,"Pazardan meyve aldim, cok taze",2026-06-19T13:30:46.848857,2026-02-10T17:40:46.848857,Haber,,,Organik
+P-0051,4ebea9475ac7,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-25T16:11:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0185,cc30836eaa30,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-17T10:57:46.848857,2025-12-31T17:40:46.848857,Twitter,,,Organik
+P-0002,8f8ae7647ec0,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-26T08:05:46.848857,2026-06-24T17:40:46.848857,Twitter,,P-0000,Kampanya1
+P-0026,ef8ac0e4c078,"Yeni bir kafe kesfettim, kahveleri cok iyi",2026-05-31T10:20:46.848857,2026-02-03T17:40:46.848857,Twitter,,,Organik
+P-0127,c1ae4ec53cda,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-11T16:45:46.848857,2026-04-18T17:40:46.848857,Twitter,,,Organik
+P-0007,cdbb4249faf4,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T07:56:46.848857,2026-06-22T17:40:46.848857,Twitter,4ebea9475ac7,,Kampanya2
+P-0119,ededb058504f,"Yogun bir gundu, sonunda eve geldim",2026-06-10T07:23:46.848857,2026-02-11T17:40:46.848857,Twitter,,,Organik
+P-0042,4ebea9475ac7,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T14:37:46.848857,2026-06-22T17:40:46.848857,Telegram,100b70733ef1,P-0037,Kampanya2
+P-0022,4ebea9475ac7,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T09:00:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0043,a8d943b1eb88,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-25T14:24:46.848857,2026-06-22T17:40:46.848857,Twitter,,P-0036,Kampanya2
+P-0021,4ebea9475ac7,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-25T09:27:46.848857,2026-06-22T17:40:46.848857,Twitter,,P-0014,Kampanya2
+P-0070,cf2bff7179ef,Hafta sonu plani yapana kadar aksam oldu,2026-06-05T17:50:46.848857,2026-01-12T17:40:46.848857,Haber,,,Organik
+P-0013,524546f1feff,Muzik dinlemek her seye iyi geliyor,2026-05-30T15:02:46.848857,2026-03-03T17:40:46.848857,Twitter,,,Organik
+P-0118,ededb058504f,"Istanbul'da yeni bir sergi acildi, gormeye gidecegim",2026-06-10T16:37:46.848857,2026-02-11T17:40:46.848857,Twitter,,,Organik
+P-0178,c1ae4ec53cda,"Bugun mac vardi, bizim takim kazandi",2026-06-16T11:00:46.848857,2026-04-18T17:40:46.848857,Twitter,,,Organik
+P-0101,06075f68bd7f,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-06-09T16:54:46.848857,2026-03-15T17:40:46.848857,Haber,,,Organik
+P-0005,a8d943b1eb88,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T07:13:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0157,2207c71b316a,Sinemaya gittim film cok iyiydi,2026-06-14T10:02:46.848857,2026-02-27T17:40:46.848857,Haber,,P-0153,Organik
+P-0078,cdbb4249faf4,Deprem sigortasi yaptirmayanlar pisman olacak,2026-06-25T20:52:46.848857,2026-06-22T17:40:46.848857,Telegram,a8d943b1eb88,,Kampanya2
+P-0278,950c555a627e,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-26T11:49:46.848857,2026-05-01T17:40:46.848857,Twitter,,,Organik
+P-0194,06075f68bd7f,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-18T18:06:46.848857,2026-03-15T17:40:46.848857,Twitter,,,Organik
+P-0177,b615d000e36f,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-06-16T09:52:46.848857,2026-03-15T17:40:46.848857,Twitter,,,Organik
+P-0099,f1ecd708246b,"Bugun cok mutluyum, guzel haber aldim",2026-06-09T12:49:46.848857,2026-03-22T17:40:46.848857,Haber,,,Organik
+P-0151,90d619ee1ace,"Yeni tarif denedim, makarna harika oldu",2026-06-13T18:44:46.848857,2026-02-09T17:40:46.848857,Haber,618973e16c5c,,Organik
+P-0123,c1ae4ec53cda,Deniz kenarinda yurumek insanin icini aciyor,2026-06-10T20:44:46.848857,2026-04-18T17:40:46.848857,Telegram,,,Organik
+P-0222,04fa704f5073,"Komsu davetiye gondermis, aksam yemege gidecegiz",2026-06-20T23:24:46.848857,2026-05-27T17:40:46.848857,Twitter,,,Organik
+P-0026,100b70733ef1,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T10:19:46.848857,2026-06-22T17:40:46.848857,Twitter,4ebea9475ac7,,Kampanya2
+P-0282,006c0b18c851,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-26T12:01:46.848857,2026-05-05T17:40:46.848857,Telegram,,,Organik
+P-0252,cc30836eaa30,Sabah sporu yapmak insana iyi geliyor,2026-06-24T16:13:46.848857,2025-12-31T17:40:46.848857,Telegram,,P-0237,Organik
+P-0271,950c555a627e,Aksam yuruyusu yapmak uyku kalitesini artiriyor,2026-06-25T22:49:46.848857,2026-05-01T17:40:46.848857,Twitter,,,Organik
+P-0216,2207c71b316a,Dizi onerisi olan var mi? Yeni ne izlesem bilemedim,2026-06-20T21:14:46.848857,2026-02-27T17:40:46.848857,Twitter,,,Organik
+P-0028,55557067bf21,"Hastaneler jenatorle calisiyor, elektrik hala gelmedi",2026-06-26T16:03:46.848857,2026-06-24T17:40:46.848857,Twitter,,P-0024,Kampanya1
+P-0030,b615d000e36f,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-05-31T13:09:46.848857,2026-03-15T17:40:46.848857,Twitter,,,Organik
+P-0054,950c555a627e,Sinemaya gittim film cok iyiydi,2026-06-04T19:26:46.848857,2026-05-01T17:40:46.848857,Twitter,,,Organik
+P-0256,c24f760f01cb,"Pazardan meyve aldim, cok taze",2026-06-24T08:59:46.848857,2026-04-21T17:40:46.848857,Twitter,,,Organik
+P-0016,100b70733ef1,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T08:56:46.848857,2026-06-22T17:40:46.848857,Telegram,b3db8c92515d,P-0014,Kampanya2
+P-0042,33e4ae89197a,Cocukken oynadigim oyunlari hatirladim da ne guzel gunlerdi,2026-06-02T20:18:46.848857,2026-01-09T17:40:46.848857,Twitter,,,Organik
+P-0211,8b6d5b997b72,Deniz kenarinda yurumek insanin icini aciyor,2026-06-20T14:28:46.848857,2026-04-05T17:40:46.848857,Telegram,,,Organik
+P-0203,de12e21c767c,"Pazardan meyve aldim, cok taze",2026-06-19T22:36:46.848857,2026-01-25T17:40:46.848857,Twitter,,,Organik
+P-0009,f30a27d63329,"Teknoloji harika seyler, yeni telefonum geldi",2026-05-29T14:30:46.848857,2026-01-23T17:40:46.848857,Twitter,,,Organik
+P-0131,c24f760f01cb,"Istanbul'da yeni bir sergi acildi, gormeye gidecegim",2026-06-11T14:15:46.848857,2026-04-21T17:40:46.848857,Twitter,,,Organik
+P-0056,06075f68bd7f,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-04T11:21:46.848857,2026-03-15T17:40:46.848857,Haber,,,Organik
+P-0141,7a3301f35306,Muzik dinlemek her seye iyi geliyor,2026-06-12T14:00:46.848857,2026-05-13T17:40:46.848857,Haber,,,Organik
+P-0086,f81491f52ced,"Komsu davetiye gondermis, aksam yemege gidecegiz",2026-06-06T21:22:46.848857,2026-02-26T17:40:46.848857,Telegram,,,Organik
+P-0028,0019ac0ce900,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-05-31T08:37:46.848857,2026-03-12T17:40:46.848857,Twitter,,,Organik
+P-0143,866e41084f21,Deniz kenarinda yurumek insanin icini aciyor,2026-06-12T23:59:46.848857,2026-03-14T17:40:46.848857,Twitter,f81eaaeb364f,,Organik
+P-0094,90d619ee1ace,Hafta sonu plani yapana kadar aksam oldu,2026-06-08T18:45:46.848857,2026-02-09T17:40:46.848857,Haber,,,Organik
+P-0018,7a3301f35306,"Kedim hastalandi, veterinere goturmek lazim",2026-05-30T11:34:46.848857,2026-05-13T17:40:46.848857,Telegram,6a386840cd56,,Organik
+P-0156,1286b68a882e,"Bugun mac vardi, bizim takim kazandi",2026-06-14T19:52:46.848857,2026-02-04T17:40:46.848857,Twitter,,,Organik
+P-0014,866e41084f21,"Bugun mac vardi, bizim takim kazandi",2026-05-30T18:34:46.848857,2026-03-14T17:40:46.848857,Twitter,,,Organik
+P-0147,002e28a409c8,"Istanbul'da yeni bir sergi acildi, gormeye gidecegim",2026-06-13T10:03:46.848857,2026-05-24T17:40:46.848857,Twitter,,,Organik
+P-0112,b8be3d182d40,"Bugun mac vardi, bizim takim kazandi",2026-06-10T22:18:46.848857,2026-04-27T17:40:46.848857,Twitter,,,Organik
+P-0093,866e41084f21,Bugun ise giderken trafik yogundu,2026-06-08T21:11:46.848857,2026-03-14T17:40:46.848857,Haber,,,Organik
+P-0030,cdbb4249faf4,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-25T11:49:46.848857,2026-06-22T17:40:46.848857,Telegram,,P-0023,Kampanya2
+P-0077,cdbb4249faf4,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-25T20:35:46.848857,2026-06-22T17:40:46.848857,Twitter,100b70733ef1,,Kampanya2
+P-0090,f1ecd708246b,"Pazardan meyve aldim, cok taze",2026-06-07T09:36:46.848857,2026-03-22T17:40:46.848857,Twitter,,,Organik
+P-0249,04fa704f5073,Muzik dinlemek her seye iyi geliyor,2026-06-23T11:58:46.848857,2026-05-27T17:40:46.848857,Haber,2e9f7c28cb58,,Organik
+P-0022,ad02fc85bb76,Elektrik gelmeyince hayat durma noktasina geldi,2026-06-26T13:33:46.848857,2026-06-24T17:40:46.848857,Twitter,fe7e5e2d5c53,,Kampanya1
+P-0066,7a3301f35306,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-05T11:55:46.848857,2026-05-13T17:40:46.848857,Haber,,,Organik
+P-0010,a8d943b1eb88,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T08:31:46.848857,2026-06-22T17:40:46.848857,Twitter,a8d943b1eb88,P-0004,Kampanya2
+P-0269,3cf7c5caa871,Deniz kenarinda yurumek insanin icini aciyor,2026-06-25T09:56:46.848857,2026-04-26T17:40:46.848857,Haber,,,Organik
+P-0025,f81491f52ced,"Yogun bir gundu, sonunda eve geldim",2026-05-31T13:27:46.848857,2026-02-26T17:40:46.848857,Twitter,,,Organik
+P-0040,b3db8c92515d,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T13:57:46.848857,2026-06-22T17:40:46.848857,Telegram,a8d943b1eb88,,Kampanya2
+P-0029,a8d943b1eb88,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T11:43:46.848857,2026-06-22T17:40:46.848857,Twitter,100b70733ef1,,Kampanya2
+P-0040,314adecad2da,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-02T19:34:46.848857,2026-04-24T17:40:46.848857,Haber,,P-0026,Organik
+P-0225,314adecad2da,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-21T22:26:46.848857,2026-04-24T17:40:46.848857,Twitter,,,Organik
+P-0223,16cefbdc7201,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-20T12:35:46.848857,2026-03-14T17:40:46.848857,Twitter,,,Organik
+P-0160,9f9c95cb326c,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-14T17:36:46.848857,2026-01-16T17:40:46.848857,Twitter,,,Organik
+P-0210,ededb058504f,"Yogun bir gundu, sonunda eve geldim",2026-06-19T19:48:46.848857,2026-02-11T17:40:46.848857,Twitter,1286b68a882e,,Organik
+P-0187,618973e16c5c,"Bugun hava cok guzeldi, sahilde yuruyus yaptim",2026-06-17T08:11:46.848857,2026-04-09T17:40:46.848857,Haber,,,Organik
+P-0047,08c5ad1c2b70,"Komsu davetiye gondermis, aksam yemege gidecegiz",2026-06-03T22:29:46.848857,2026-04-06T17:40:46.848857,Twitter,,,Organik
+P-0196,9f9c95cb326c,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-06-18T09:38:46.848857,2026-01-16T17:40:46.848857,Twitter,,,Organik
+P-0069,a8d943b1eb88,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-25T19:59:46.848857,2026-06-22T17:40:46.848857,Telegram,,P-0067,Kampanya2
+P-0066,cdbb4249faf4,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-25T19:39:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0019,a8d943b1eb88,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T09:17:46.848857,2026-06-22T17:40:46.848857,Telegram,,P-0018,Kampanya2
+P-0071,4ebea9475ac7,Deprem sigortasi yaptirmayanlar pisman olacak,2026-06-25T19:38:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0020,f81491f52ced,"Istanbul'da yeni bir sergi acildi, gormeye gidecegim",2026-05-30T09:30:46.848857,2026-02-26T17:40:46.848857,Twitter,,,Organik
+P-0277,002e28a409c8,Cocukken oynadigim oyunlari hatirladim da ne guzel gunlerdi,2026-06-26T19:44:46.848857,2026-05-24T17:40:46.848857,Twitter,,,Organik
+P-0114,f81491f52ced,"Yeni bir kafe kesfettim, kahveleri cok iyi",2026-06-10T19:32:46.848857,2026-02-26T17:40:46.848857,Haber,,,Organik
+P-0089,fa36f16e572b,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-06-07T18:24:46.848857,2026-05-17T17:40:46.848857,Telegram,,,Organik
+P-0071,18006da415a9,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-05T22:28:46.848857,2026-04-21T17:40:46.848857,Twitter,,,Organik
+P-0251,9f9c95cb326c,Sinemaya gittim film cok iyiydi,2026-06-23T14:35:46.848857,2026-01-16T17:40:46.848857,Twitter,,P-0237,Organik
+P-0001,d23c1e33b097,"Evdeki bitkiler buyudu, saksı degistirme vakti",2026-05-29T07:36:46.848857,2026-05-25T17:40:46.848857,Haber,,,Organik
+P-0073,cdbb4249faf4,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-25T20:16:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0050,100b70733ef1,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-25T15:00:46.848857,2026-06-22T17:40:46.848857,Telegram,100b70733ef1,,Kampanya2
+P-0267,e57f2d113587,"Bugun cok mutluyum, guzel haber aldim",2026-06-25T20:14:46.848857,2026-02-10T17:40:46.848857,Telegram,,P-0261,Organik
+P-0165,cc30836eaa30,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-15T20:35:46.848857,2025-12-31T17:40:46.848857,Twitter,,P-0157,Organik
+P-0021,fe7e5e2d5c53,"Kesintinin nedeni siber saldiri olabilir, yetkililer dogrulamiyor",2026-06-26T13:13:46.848857,2026-06-24T17:40:46.848857,Haber,,,Kampanya1
+P-0046,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T14:42:46.848857,2026-06-22T17:40:46.848857,Telegram,a8d943b1eb88,P-0044,Kampanya2
+P-0163,524546f1feff,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-15T23:20:46.848857,2026-03-03T17:40:46.848857,Twitter,,,Organik
+P-0266,d23c1e33b097,Aksam yuruyusu yapmak uyku kalitesini artiriyor,2026-06-24T08:54:46.848857,2026-05-25T17:40:46.848857,Twitter,,,Organik
+P-0229,d23c1e33b097,Muzik dinlemek her seye iyi geliyor,2026-06-21T14:19:46.848857,2026-05-25T17:40:46.848857,Twitter,,P-0215,Organik
+P-0007,fe7e5e2d5c53,"#ElektrikKesintisi sehri karanliga bogdu, hala aciklama yapilmadi",2026-06-26T09:02:46.848857,2026-06-24T17:40:46.848857,Haber,,,Kampanya1
+P-0084,ef8ac0e4c078,Sinemaya gittim film cok iyiydi,2026-06-06T09:46:46.848857,2026-02-03T17:40:46.848857,Haber,,,Organik
+P-0139,3f49d43ecff2,Hafta sonu plani yapana kadar aksam oldu,2026-06-12T12:00:46.848857,2026-02-17T17:40:46.848857,Twitter,,,Organik
+P-0003,2e9f7c28cb58,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-05-29T11:40:46.848857,2026-01-05T17:40:46.848857,Twitter,,P--003,Organik
+P-0034,889c0803ab77,Bugun ise giderken trafik yogundu,2026-06-01T11:47:46.848857,2026-03-27T17:40:46.848857,Telegram,,,Organik
+P-0041,f30a27d63329,Bugun ise giderken trafik yogundu,2026-06-02T08:27:46.848857,2026-01-23T17:40:46.848857,Haber,,,Organik
+P-0088,9f9c95cb326c,Muzik dinlemek her seye iyi geliyor,2026-06-07T11:54:46.848857,2026-01-16T17:40:46.848857,Twitter,950c555a627e,,Organik
+P-0192,7f11ccc040f7,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-06-17T19:27:46.848857,2026-03-30T17:40:46.848857,Twitter,,,Organik
+P-0023,55557067bf21,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-26T14:04:46.848857,2026-06-24T17:40:46.848857,Haber,fe7e5e2d5c53,,Kampanya1
+P-0081,b3db8c92515d,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-25T21:05:46.848857,2026-06-22T17:40:46.848857,Telegram,b3db8c92515d,,Kampanya2
+P-0205,2207c71b316a,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-19T13:28:46.848857,2026-02-27T17:40:46.848857,Twitter,,,Organik
+P-0274,314adecad2da,"Yeni tarif denedim, makarna harika oldu",2026-06-26T08:09:46.848857,2026-04-24T17:40:46.848857,Haber,,,Organik
+P-0100,16cefbdc7201,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-09T16:10:46.848857,2026-03-14T17:40:46.848857,Twitter,,,Organik
+P-0166,b8be3d182d40,Sabah sporu yapmak insana iyi geliyor,2026-06-15T18:05:46.848857,2026-04-27T17:40:46.848857,Twitter,,,Organik
+P-0006,d23c1e33b097,"Kedim hastalandi, veterinere goturmek lazim",2026-05-29T16:47:46.848857,2026-05-25T17:40:46.848857,Twitter,08c5ad1c2b70,,Organik
+P-0116,e1efe4322b03,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-10T23:25:46.848857,2026-03-04T17:40:46.848857,Twitter,,,Organik
+P-0027,002e28a409c8,"Yogun bir gundu, sonunda eve geldim",2026-05-31T09:05:46.848857,2026-05-24T17:40:46.848857,Twitter,,,Organik
+P-0072,4ebea9475ac7,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T19:17:46.848857,2026-06-22T17:40:46.848857,Twitter,100b70733ef1,,Kampanya2
+P-0013,8f8ae7647ec0,"Sebeke coktu, hukumet aciklama yapmaktan kaciniyor",2026-06-26T11:57:46.848857,2026-06-24T17:40:46.848857,Twitter,55557067bf21,,Kampanya1
+P-0149,f1ecd708246b,Muzik dinlemek her seye iyi geliyor,2026-06-13T08:29:46.848857,2026-03-22T17:40:46.848857,Twitter,,,Organik
+P-0032,b3db8c92515d,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T12:14:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0048,4ebea9475ac7,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T15:04:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0224,f1ecd708246b,"Pazardan meyve aldim, cok taze",2026-06-21T07:31:46.848857,2026-03-22T17:40:46.848857,Haber,,,Organik
+P-0167,90d619ee1ace,Deniz kenarinda yurumek insanin icini aciyor,2026-06-15T08:55:46.848857,2026-02-09T17:40:46.848857,Twitter,,,Organik
+P-0039,a8d943b1eb88,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T13:22:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0275,3f49d43ecff2,"Kedim hastalandi, veterinere goturmek lazim",2026-06-26T18:29:46.848857,2026-02-17T17:40:46.848857,Twitter,,,Organik
+P-0204,b8be3d182d40,Deniz kenarinda yurumek insanin icini aciyor,2026-06-19T13:37:46.848857,2026-04-27T17:40:46.848857,Twitter,,,Organik
+P-0065,86a95e199421,"Yogun bir gundu, sonunda eve geldim",2026-06-05T16:49:46.848857,2026-02-28T17:40:46.848857,Haber,,,Organik
+P-0022,d75555e64e06,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-05-30T08:30:46.848857,2026-03-30T17:40:46.848857,Twitter,,,Organik
+P-0059,8b6d5b997b72,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-06-04T20:32:46.848857,2026-04-05T17:40:46.848857,Twitter,,,Organik
+P-0076,cdbb4249faf4,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T20:20:46.848857,2026-06-22T17:40:46.848857,Telegram,100b70733ef1,,Kampanya2
+P-0020,a8d943b1eb88,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T09:07:46.848857,2026-06-22T17:40:46.848857,Twitter,,P-0014,Kampanya2
+P-0024,a8d943b1eb88,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-25T10:07:46.848857,2026-06-22T17:40:46.848857,Telegram,a8d943b1eb88,,Kampanya2
+P-0056,b3db8c92515d,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-25T16:48:46.848857,2026-06-22T17:40:46.848857,Telegram,cdbb4249faf4,P-0052,Kampanya2
+P-0026,bb3012cdaf75,Elektrik dagitim sirketleri krizi yonetimeiyor,2026-06-26T15:43:46.848857,2026-06-24T17:40:46.848857,Twitter,,P-0024,Kampanya1
+P-0273,3f49d43ecff2,"Kedim hastalandi, veterinere goturmek lazim",2026-06-26T19:54:46.848857,2026-02-17T17:40:46.848857,Twitter,,,Organik
+P-0012,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T08:07:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0083,b3db8c92515d,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T21:24:46.848857,2026-06-22T17:40:46.848857,Telegram,cdbb4249faf4,P-0076,Kampanya2
+P-0036,08c5ad1c2b70,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-06-01T11:10:46.848857,2026-04-06T17:40:46.848857,Twitter,,,Organik
+P-0014,a8d943b1eb88,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T08:02:46.848857,2026-06-22T17:40:46.848857,Telegram,4ebea9475ac7,,Kampanya2
+P-0048,889c0803ab77,Muzik dinlemek her seye iyi geliyor,2026-06-03T17:55:46.848857,2026-03-27T17:40:46.848857,Twitter,,,Organik
+P-0082,a8d943b1eb88,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T21:45:46.848857,2026-06-22T17:40:46.848857,Telegram,100b70733ef1,P-0079,Kampanya2
+P-0008,c06347724a46,Bu buyuklukte bir kesinti daha once yasanmamisti,2026-06-26T10:40:46.848857,2026-06-24T17:40:46.848857,Twitter,bb3012cdaf75,,Kampanya1
+P-0240,c66b9193f8f4,"Yeni tarif denedim, makarna harika oldu",2026-06-22T17:57:46.848857,2026-04-16T17:40:46.848857,Twitter,,,Organik
+P-0257,524546f1feff,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-06-24T20:27:46.848857,2026-03-03T17:40:46.848857,Twitter,,,Organik
+P-0283,c24f760f01cb,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-27T10:00:46.848857,2026-04-21T17:40:46.848857,Twitter,,,Organik
+P-0242,624a0eefbc27,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-06-22T11:56:46.848857,2026-05-28T17:40:46.848857,Haber,,,Organik
+P-0033,ededb058504f,Dizi onerisi olan var mi? Yeni ne izlesem bilemedim,2026-06-01T16:58:46.848857,2026-02-11T17:40:46.848857,Haber,,,Organik
+P-0058,100b70733ef1,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T17:22:46.848857,2026-06-22T17:40:46.848857,Twitter,,P-0055,Kampanya2
+P-0024,fe7e5e2d5c53,"Sehir genelinde elektrik yok, panik buyuyor",2026-06-26T14:31:46.848857,2026-06-24T17:40:46.848857,Telegram,ad02fc85bb76,,Kampanya1
+P-0110,e1efe4322b03,Aksam yuruyusu yapmak uyku kalitesini artiriyor,2026-06-09T12:31:46.848857,2026-03-04T17:40:46.848857,Twitter,006c0b18c851,,Organik
+P-0021,de12e21c767c,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-05-30T08:46:46.848857,2026-01-25T17:40:46.848857,Twitter,,,Organik
+P-0228,4c101e93d6c2,Sabah sporu yapmak insana iyi geliyor,2026-06-21T08:48:46.848857,2026-03-16T17:40:46.848857,Haber,002e28a409c8,,Organik
+P-0068,f81eaaeb364f,Muzik dinlemek her seye iyi geliyor,2026-06-05T20:05:46.848857,2026-01-03T17:40:46.848857,Haber,,,Organik
+P-0013,100b70733ef1,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T08:09:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0234,d23c1e33b097,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-22T11:44:46.848857,2026-05-25T17:40:46.848857,Telegram,,,Organik
+P-0108,3cf7c5caa871,Muzik dinlemek her seye iyi geliyor,2026-06-09T17:15:46.848857,2026-04-26T17:40:46.848857,Twitter,dfafce1382c7,,Organik
+P-0015,4ebea9475ac7,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T08:26:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0059,b3db8c92515d,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T17:12:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0134,dfafce1382c7,"Bugun cok mutluyum, guzel haber aldim",2026-06-11T16:20:46.848857,2026-05-22T17:40:46.848857,Haber,,,Organik
+P-0027,ad02fc85bb76,Bu buyuklukte bir kesinti daha once yasanmamisti,2026-06-26T15:34:46.848857,2026-06-24T17:40:46.848857,Twitter,bb3012cdaf75,,Kampanya1
+P-0124,f1ecd708246b,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-10T08:45:46.848857,2026-03-22T17:40:46.848857,Twitter,,,Organik
+P-0215,3f49d43ecff2,Dizi onerisi olan var mi? Yeni ne izlesem bilemedim,2026-06-20T12:59:46.848857,2026-02-17T17:40:46.848857,Twitter,,,Organik
+P-0261,f1ecd708246b,Dizi onerisi olan var mi? Yeni ne izlesem bilemedim,2026-06-24T07:45:46.848857,2026-03-22T17:40:46.848857,Twitter,,,Organik
+P-0232,b8be3d182d40,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-21T15:38:46.848857,2026-04-27T17:40:46.848857,Twitter,,,Organik
+P-0209,950c555a627e,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-06-19T09:06:46.848857,2026-05-01T17:40:46.848857,Twitter,,P-0198,Organik
+P-0009,fe7e5e2d5c53,Elektrik gelmeyince hayat durma noktasina geldi,2026-06-26T10:10:46.848857,2026-06-24T17:40:46.848857,Twitter,,,Kampanya1
+P-0097,86464ea38e28,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-08T09:04:46.848857,2026-02-13T17:40:46.848857,Telegram,,,Organik
+P-0085,e57f2d113587,Hafta sonu plani yapana kadar aksam oldu,2026-06-06T10:05:46.848857,2026-02-10T17:40:46.848857,Twitter,,,Organik
+P-0019,fe7e5e2d5c53,"Sebeke coktu, hukumet aciklama yapmaktan kaciniyor",2026-06-26T12:19:46.848857,2026-06-24T17:40:46.848857,Twitter,,P-0014,Kampanya1
+P-0137,ededb058504f,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-06-12T10:59:46.848857,2026-02-11T17:40:46.848857,Twitter,,,Organik
+P-0055,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T16:35:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0087,a8d943b1eb88,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T21:02:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0284,68579a54985c,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-27T09:37:46.848857,2026-02-07T17:40:46.848857,Twitter,,,Organik
+P-0199,90d619ee1ace,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-18T22:50:46.848857,2026-02-09T17:40:46.848857,Telegram,,,Organik
+P-0073,33e4ae89197a,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-05T21:04:46.848857,2026-01-09T17:40:46.848857,Twitter,e1efe4322b03,,Organik
+P-0153,d23c1e33b097,"Pazardan meyve aldim, cok taze",2026-06-14T19:28:46.848857,2026-05-25T17:40:46.848857,Twitter,,,Organik
+P-0286,618973e16c5c,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-27T08:10:46.848857,2026-04-09T17:40:46.848857,Telegram,,,Organik
+P-0233,c66b9193f8f4,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-21T23:57:46.848857,2026-04-16T17:40:46.848857,Haber,,,Organik
+P-0092,18006da415a9,"Bugun cok mutluyum, guzel haber aldim",2026-06-07T21:13:46.848857,2026-04-21T17:40:46.848857,Haber,,,Organik
+P-0162,c66b9193f8f4,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-14T12:40:46.848857,2026-04-16T17:40:46.848857,Twitter,,,Organik
+P-0095,8b6d5b997b72,"Kedim hastalandi, veterinere goturmek lazim",2026-06-08T12:50:46.848857,2026-04-05T17:40:46.848857,Haber,,,Organik
+P-0105,86464ea38e28,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-06-09T16:41:46.848857,2026-02-13T17:40:46.848857,Haber,,,Organik
+P-0078,16d67631b674,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-06T11:02:46.848857,2026-01-18T17:40:46.848857,Telegram,,,Organik
+P-0025,bb3012cdaf75,Elektrik dagitim sirketleri krizi yonetimeiyor,2026-06-26T15:06:46.848857,2026-06-24T17:40:46.848857,Twitter,,,Kampanya1
+P-0179,758721858bde,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-16T22:42:46.848857,2026-04-25T17:40:46.848857,Twitter,cc30836eaa30,,Organik
+P-0027,100b70733ef1,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T11:29:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0012,3f49d43ecff2,Aksam yuruyusu yapmak uyku kalitesini artiriyor,2026-05-30T20:37:46.848857,2026-02-17T17:40:46.848857,Twitter,758721858bde,,Organik
+P-0060,1286b68a882e,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-04T22:12:46.848857,2026-02-04T17:40:46.848857,Twitter,,,Organik
+P-0006,cdbb4249faf4,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T07:59:46.848857,2026-06-22T17:40:46.848857,Twitter,a8d943b1eb88,P-0000,Kampanya2
+P-0008,3f49d43ecff2,"Komsu davetiye gondermis, aksam yemege gidecegiz",2026-05-29T18:43:46.848857,2026-02-17T17:40:46.848857,Twitter,,,Organik
+P-0079,100b70733ef1,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T20:31:46.848857,2026-06-22T17:40:46.848857,Twitter,a8d943b1eb88,,Kampanya2
+P-0016,fa36f16e572b,"Yeni bir hobi edindim, resim yapmaya basladim",2026-05-30T11:50:46.848857,2026-05-17T17:40:46.848857,Haber,,,Organik
+P-0006,8d7bf4456dcf,Elektrik gelmeyince hayat durma noktasina geldi,2026-06-26T09:35:46.848857,2026-06-24T17:40:46.848857,Haber,,P-0005,Kampanya1
+P-0109,d23c1e33b097,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-09T20:15:46.848857,2026-05-25T17:40:46.848857,Twitter,,,Organik
+P-0052,2e9f7c28cb58,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-03T08:28:46.848857,2026-01-05T17:40:46.848857,Twitter,,,Organik
+P-0017,cdbb4249faf4,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T09:55:46.848857,2026-06-22T17:40:46.848857,Twitter,,P-0013,Kampanya2
+P-0057,b3db8c92515d,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-25T17:44:46.848857,2026-06-22T17:40:46.848857,Twitter,,P-0051,Kampanya2
+P-0272,b8be3d182d40,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-26T07:14:46.848857,2026-04-27T17:40:46.848857,Telegram,ededb058504f,P-0261,Organik
+P-0058,524546f1feff,"Evdeki bitkiler buyudu, saksı degistirme vakti",2026-06-04T11:42:46.848857,2026-03-03T17:40:46.848857,Haber,,P-0047,Organik
+P-0247,6c29f45c1389,"Pazardan meyve aldim, cok taze",2026-06-23T17:23:46.848857,2026-03-14T17:40:46.848857,Haber,,,Organik
+P-0011,b3db8c92515d,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T08:49:46.848857,2026-06-22T17:40:46.848857,Twitter,100b70733ef1,,Kampanya2
+P-0218,2e9f7c28cb58,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-20T09:36:46.848857,2026-01-05T17:40:46.848857,Twitter,,,Organik
+P-0207,9f9c95cb326c,"Pazardan meyve aldim, cok taze",2026-06-19T09:28:46.848857,2026-01-16T17:40:46.848857,Twitter,,,Organik
+P-0135,f81eaaeb364f,Aksam yuruyusu yapmak uyku kalitesini artiriyor,2026-06-11T08:58:46.848857,2026-01-03T17:40:46.848857,Haber,,P-0121,Organik
+P-0025,100b70733ef1,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T10:12:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0279,16d67631b674,Sabah sporu yapmak insana iyi geliyor,2026-06-26T10:34:46.848857,2026-01-18T17:40:46.848857,Twitter,,,Organik
+P-0085,100b70733ef1,Deprem sigortasi yaptirmayanlar pisman olacak,2026-06-25T21:42:46.848857,2026-06-22T17:40:46.848857,Telegram,4ebea9475ac7,,Kampanya2
+P-0191,e57f2d113587,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-17T19:49:46.848857,2026-02-10T17:40:46.848857,Haber,,,Organik
+P-0065,4ebea9475ac7,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T18:49:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0017,a3b230f37408,"Sebeke coktu, hukumet aciklama yapmaktan kaciniyor",2026-06-26T11:16:46.848857,2026-06-24T17:40:46.848857,Haber,fe7e5e2d5c53,P-0015,Kampanya1
+P-0244,624a0eefbc27,"Kedim hastalandi, veterinere goturmek lazim",2026-06-23T14:27:46.848857,2026-05-28T17:40:46.848857,Twitter,,,Organik
+P-0081,b0353b085c58,Sabah sporu yapmak insana iyi geliyor,2026-06-06T22:16:46.848857,2026-01-23T17:40:46.848857,Twitter,,P-0070,Organik
+P-0174,002e28a409c8,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-16T19:36:46.848857,2026-05-24T17:40:46.848857,Telegram,,,Organik
+P-0219,d23c1e33b097,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-06-20T15:42:46.848857,2026-05-25T17:40:46.848857,Twitter,,,Organik
+P-0213,3cf7c5caa871,"Istanbul'da yeni bir sergi acildi, gormeye gidecegim",2026-06-20T16:21:46.848857,2026-04-26T17:40:46.848857,Twitter,,,Organik
+P-0037,100b70733ef1,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T12:14:46.848857,2026-06-22T17:40:46.848857,Twitter,4ebea9475ac7,,Kampanya2
+P-0031,ef8ac0e4c078,Deniz kenarinda yurumek insanin icini aciyor,2026-06-01T14:51:46.848857,2026-02-03T17:40:46.848857,Haber,,,Organik
+P-0038,b615d000e36f,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-01T22:33:46.848857,2026-03-15T17:40:46.848857,Twitter,,P-0033,Organik
+P-0074,ef8ac0e4c078,"Komsu davetiye gondermis, aksam yemege gidecegiz",2026-06-05T11:18:46.848857,2026-02-03T17:40:46.848857,Twitter,,,Organik
+P-0190,2e9f7c28cb58,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-17T18:03:46.848857,2026-01-05T17:40:46.848857,Twitter,,,Organik
+P-0182,006c0b18c851,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-17T09:23:46.848857,2026-05-05T17:40:46.848857,Haber,,,Organik
+P-0086,100b70733ef1,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T21:24:46.848857,2026-06-22T17:40:46.848857,Haber,100b70733ef1,P-0079,Kampanya2
+P-0063,18006da415a9,"Evdeki bitkiler buyudu, saksı degistirme vakti",2026-06-05T14:28:46.848857,2026-04-21T17:40:46.848857,Haber,,,Organik
+P-0168,f81eaaeb364f,"Bugun cok mutluyum, guzel haber aldim",2026-06-15T13:55:46.848857,2026-01-03T17:40:46.848857,Twitter,,,Organik
+P-0230,2207c71b316a,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-06-21T10:49:46.848857,2026-02-27T17:40:46.848857,Telegram,,,Organik
+P-0245,c66b9193f8f4,"Bugun hava cok guzeldi, sahilde yuruyus yaptim",2026-06-23T14:33:46.848857,2026-04-16T17:40:46.848857,Telegram,,,Organik
+P-0130,871552dbdfd3,"Yeni bir kafe kesfettim, kahveleri cok iyi",2026-06-11T22:13:46.848857,2026-04-03T17:40:46.848857,Haber,,,Organik
+P-0104,c1ae4ec53cda,"Yogun bir gundu, sonunda eve geldim",2026-06-09T15:41:46.848857,2026-04-18T17:40:46.848857,Telegram,6c29f45c1389,,Organik
+P-0052,100b70733ef1,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-25T16:29:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0041,b3db8c92515d,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T14:46:46.848857,2026-06-22T17:40:46.848857,Haber,,,Kampanya2
+P-0212,2e9f7c28cb58,"Bugun cok mutluyum, guzel haber aldim",2026-06-20T07:30:46.848857,2026-01-05T17:40:46.848857,Haber,4c101e93d6c2,,Organik
+P-0035,8b6d5b997b72,Cocukken oynadigim oyunlari hatirladim da ne guzel gunlerdi,2026-06-01T17:10:46.848857,2026-04-05T17:40:46.848857,Haber,,P-0034,Organik
+P-0053,743de3746c60,Muzik dinlemek her seye iyi geliyor,2026-06-03T12:02:46.848857,2026-03-01T17:40:46.848857,Twitter,,,Organik
+P-0260,18006da415a9,Hafta sonu plani yapana kadar aksam oldu,2026-06-24T10:29:46.848857,2026-04-21T17:40:46.848857,Telegram,,,Organik
+P-0208,b0353b085c58,"Bugun mac vardi, bizim takim kazandi",2026-06-19T20:34:46.848857,2026-01-23T17:40:46.848857,Telegram,,,Organik
+P-0083,7f11ccc040f7,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-06T19:21:46.848857,2026-03-30T17:40:46.848857,Twitter,,,Organik
+P-0072,33e4ae89197a,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-05T23:27:46.848857,2026-01-09T17:40:46.848857,Twitter,04fa704f5073,,Organik
+P-0009,4ebea9475ac7,Deprem hazirliklari icin kriz masasi kuruldu,2026-06-25T07:47:46.848857,2026-06-22T17:40:46.848857,Telegram,,P-0004,Kampanya2
+P-0067,33e4ae89197a,Deniz kenarinda yurumek insanin icini aciyor,2026-06-05T23:54:46.848857,2026-01-09T17:40:46.848857,Twitter,,,Organik
+P-0221,f1ecd708246b,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-20T09:43:46.848857,2026-03-22T17:40:46.848857,Twitter,,,Organik
+P-0028,b3db8c92515d,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T11:47:46.848857,2026-06-22T17:40:46.848857,Telegram,,P-0024,Kampanya2
+P-0236,e1efe4322b03,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-22T09:25:46.848857,2026-03-04T17:40:46.848857,Haber,,,Organik
+P-0181,cf2bff7179ef,Sinemaya gittim film cok iyiydi,2026-06-16T10:33:46.848857,2026-01-12T17:40:46.848857,Twitter,,,Organik
+P-0047,cdbb4249faf4,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T15:19:46.848857,2026-06-22T17:40:46.848857,Telegram,,P-0043,Kampanya2
+P-0012,ad02fc85bb76,"Sebeke coktu, hukumet aciklama yapmaktan kaciniyor",2026-06-26T10:25:46.848857,2026-06-24T17:40:46.848857,Twitter,,,Kampanya1
+P-0002,cdbb4249faf4,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T06:03:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0046,cf2bff7179ef,Dizi onerisi olan var mi? Yeni ne izlesem bilemedim,2026-06-02T14:06:46.848857,2026-01-12T17:40:46.848857,Telegram,,,Organik
+P-0248,cc30836eaa30,Sinemaya gittim film cok iyiydi,2026-06-23T11:04:46.848857,2025-12-31T17:40:46.848857,Telegram,,,Organik
+P-0055,0019ac0ce900,Hafta sonu plani yapana kadar aksam oldu,2026-06-04T17:06:46.848857,2026-03-12T17:40:46.848857,Twitter,,,Organik
+P-0038,100b70733ef1,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T13:13:46.848857,2026-06-22T17:40:46.848857,Telegram,,P-0037,Kampanya2
+P-0075,4ebea9475ac7,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-25T20:11:46.848857,2026-06-22T17:40:46.848857,Telegram,a8d943b1eb88,,Kampanya2
+P-0195,ef8ac0e4c078,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-18T09:11:46.848857,2026-02-03T17:40:46.848857,Twitter,06075f68bd7f,,Organik
+P-0050,624a0eefbc27,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-06-03T16:04:46.848857,2026-05-28T17:40:46.848857,Twitter,,,Organik
+P-0001,8d7bf4456dcf,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-26T08:01:46.848857,2026-06-24T17:40:46.848857,Telegram,,,Kampanya1
+P-0125,3cf7c5caa871,Cocukken oynadigim oyunlari hatirladim da ne guzel gunlerdi,2026-06-10T17:11:46.848857,2026-04-26T17:40:46.848857,Twitter,,,Organik
+P-0150,f30a27d63329,"Yeni bir hobi edindim, resim yapmaya basladim",2026-06-13T16:46:46.848857,2026-01-23T17:40:46.848857,Twitter,,P-0143,Organik
+P-0011,fe7e5e2d5c53,"Sular da kesildi, cunku pompalar calismiyor",2026-06-26T10:04:46.848857,2026-06-24T17:40:46.848857,Haber,,,Kampanya1
+P-0253,86a95e199421,"Bu aralar cok yogunum, yetismeye calisiyorum",2026-06-24T14:31:46.848857,2026-02-28T17:40:46.848857,Telegram,6c29f45c1389,,Organik
+P-0189,08c5ad1c2b70,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-06-17T17:24:46.848857,2026-04-06T17:40:46.848857,Haber,,,Organik
+P-0262,8b6d5b997b72,Deniz kenarinda yurumek insanin icini aciyor,2026-06-24T15:10:46.848857,2026-04-05T17:40:46.848857,Haber,,,Organik
+P-0254,e57f2d113587,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-06-24T18:59:46.848857,2026-02-10T17:40:46.848857,Haber,,,Organik
+P-0018,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T09:14:46.848857,2026-06-22T17:40:46.848857,Twitter,,,Kampanya2
+P-0020,ad02fc85bb76,"Sehir genelinde elektrik yok, panik buyuyor",2026-06-26T13:08:46.848857,2026-06-24T17:40:46.848857,Twitter,,,Kampanya1
+P-0132,42818e9cf793,Deniz kenarinda yurumek insanin icini aciyor,2026-06-11T17:45:46.848857,2026-03-04T17:40:46.848857,Twitter,,,Organik
+P-0061,a8d943b1eb88,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T17:08:46.848857,2026-06-22T17:40:46.848857,Telegram,,P-0053,Kampanya2
+P-0039,f1ecd708246b,Hafta sonu plani yapana kadar aksam oldu,2026-06-01T13:49:46.848857,2026-03-22T17:40:46.848857,Twitter,3f49d43ecff2,,Organik
+P-0158,9f9c95cb326c,Muzik dinlemek her seye iyi geliyor,2026-06-14T09:06:46.848857,2026-01-16T17:40:46.848857,Twitter,f81491f52ced,,Organik
+P-0133,624a0eefbc27,Aksam yuruyusu yapmak uyku kalitesini artiriyor,2026-06-11T12:26:46.848857,2026-05-28T17:40:46.848857,Twitter,,,Organik
+P-0068,100b70733ef1,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T19:38:46.848857,2026-06-22T17:40:46.848857,Twitter,100b70733ef1,P-0064,Kampanya2
+P-0237,6a386840cd56,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-06-22T17:37:46.848857,2026-04-19T17:40:46.848857,Telegram,,,Organik
+P-0044,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-25T14:16:46.848857,2026-06-22T17:40:46.848857,Twitter,,P-0042,Kampanya2
+P-0169,08c5ad1c2b70,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-15T10:47:46.848857,2026-04-06T17:40:46.848857,Telegram,,,Organik
+P-0171,6c29f45c1389,"Kedim hastalandi, veterinere goturmek lazim",2026-06-15T18:32:46.848857,2026-03-14T17:40:46.848857,Haber,,,Organik
+P-0061,b615d000e36f,Deniz kenarinda yurumek insanin icini aciyor,2026-06-04T23:02:46.848857,2026-03-15T17:40:46.848857,Telegram,,,Organik
+P-0239,002e28a409c8,"Teknoloji harika seyler, yeni telefonum geldi",2026-06-22T15:20:46.848857,2026-05-24T17:40:46.848857,Twitter,,,Organik
+P-0015,8d7bf4456dcf,"Elektrik kesintisi tum sehirde devam ediyor, yetkililerden aciklama yok",2026-06-26T11:29:46.848857,2026-06-24T17:40:46.848857,Telegram,8d7bf4456dcf,,Kampanya1
+P-0183,d75555e64e06,"Yeni tarif denedim, makarna harika oldu",2026-06-17T09:41:46.848857,2026-03-30T17:40:46.848857,Twitter,,,Organik
+P-0264,3cf7c5caa871,"Yeni tarif denedim, makarna harika oldu",2026-06-24T09:31:46.848857,2026-04-26T17:40:46.848857,Twitter,,,Organik
+P-0238,90d619ee1ace,"Pazardan meyve aldim, cok taze",2026-06-22T18:54:46.848857,2026-02-09T17:40:46.848857,Twitter,,,Organik
+P-0043,ef8ac0e4c078,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-02T18:05:46.848857,2026-02-03T17:40:46.848857,Twitter,,P-0029,Organik
+P-0184,6a386840cd56,Bugun ise giderken trafik yogundu,2026-06-17T08:40:46.848857,2026-04-19T17:40:46.848857,Twitter,,,Organik
+P-0002,2207c71b316a,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-05-29T16:49:46.848857,2026-02-27T17:40:46.848857,Twitter,,,Organik
+P-0062,cdbb4249faf4,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T17:06:46.848857,2026-06-22T17:40:46.848857,Telegram,cdbb4249faf4,P-0054,Kampanya2
+P-0060,cdbb4249faf4,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-25T17:18:46.848857,2026-06-22T17:40:46.848857,Twitter,cdbb4249faf4,,Kampanya2
+P-0062,524546f1feff,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-06-04T12:53:46.848857,2026-03-03T17:40:46.848857,Haber,,P-0056,Organik
+P-0276,b615d000e36f,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-26T08:27:46.848857,2026-03-15T17:40:46.848857,Twitter,,,Organik
+P-0175,624a0eefbc27,Muzik dinlemek her seye iyi geliyor,2026-06-16T22:46:46.848857,2026-05-28T17:40:46.848857,Twitter,,,Organik
+P-0270,871552dbdfd3,Bu hafta sonu kamp yapmaya gidiyoruz heyecanliyim,2026-06-25T07:23:46.848857,2026-04-03T17:40:46.848857,Twitter,,,Organik
+P-0029,55557067bf21,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-26T16:57:46.848857,2026-06-24T17:40:46.848857,Haber,ad02fc85bb76,,Kampanya1
+P-0154,d23c1e33b097,Dizi onerisi olan var mi? Yeni ne izlesem bilemedim,2026-06-14T11:41:46.848857,2026-05-25T17:40:46.848857,Haber,,,Organik
+P-0017,950c555a627e,Aksam yuruyusu yapmak uyku kalitesini artiriyor,2026-05-30T14:21:46.848857,2026-05-01T17:40:46.848857,Twitter,,,Organik
+P-0004,f81eaaeb364f,"Evdeki bitkiler buyudu, saksı degistirme vakti",2026-05-29T11:05:46.848857,2026-01-03T17:40:46.848857,Twitter,,,Organik
+P-0217,68579a54985c,"Bugun hava cok guzeldi, sahilde yuruyus yaptim",2026-06-20T13:28:46.848857,2026-02-07T17:40:46.848857,Telegram,,,Organik
+P-0007,2207c71b316a,Bugun ise giderken trafik yogundu,2026-05-29T19:54:46.848857,2026-02-27T17:40:46.848857,Haber,b8be3d182d40,,Organik
+P-0023,100b70733ef1,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-25T10:23:46.848857,2026-06-22T17:40:46.848857,Haber,,,Kampanya2
+P-0053,a8d943b1eb88,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T16:05:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0091,4ebea9475ac7,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-25T22:02:46.848857,2026-06-22T17:40:46.848857,Telegram,b3db8c92515d,,Kampanya2
+P-0180,e1efe4322b03,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-06-16T16:01:46.848857,2026-03-04T17:40:46.848857,Twitter,,,Organik
+P-0285,f1ecd708246b,"Cayin yanina ne yapsam diye dusunuyordum, kek yaptim",2026-06-27T21:51:46.848857,2026-03-22T17:40:46.848857,Haber,,P-0277,Organik
+P-0152,7f11ccc040f7,Deniz kenarinda yurumek insanin icini aciyor,2026-06-13T16:26:46.848857,2026-03-30T17:40:46.848857,Telegram,,,Organik
+P-0122,fa36f16e572b,"Kedim hastalandi, veterinere goturmek lazim",2026-06-10T14:02:46.848857,2026-05-17T17:40:46.848857,Twitter,,,Organik
+P-0001,a8d943b1eb88,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T06:12:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0024,9f9c95cb326c,Muzik dinlemek her seye iyi geliyor,2026-05-30T17:24:46.848857,2026-01-16T17:40:46.848857,Twitter,,,Organik
+P-0016,bb3012cdaf75,Bu buyuklukte bir kesinti daha once yasanmamisti,2026-06-26T11:21:46.848857,2026-06-24T17:40:46.848857,Twitter,,,Kampanya1
+P-0084,4ebea9475ac7,Deprem olacagi kesin! Uzmanlar uyariyor: Buyuk Marmara depremi cok yakin,2026-06-25T21:21:46.848857,2026-06-22T17:40:46.848857,Twitter,4ebea9475ac7,,Kampanya2
+P-0186,b0353b085c58,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-06-17T22:17:46.848857,2026-01-23T17:40:46.848857,Haber,,,Organik
+P-0044,ededb058504f,Deniz kenarinda yurumek insanin icini aciyor,2026-06-02T16:47:46.848857,2026-02-11T17:40:46.848857,Twitter,,,Organik
+P-0014,a3b230f37408,"Milyonlarca insan elektriksiz, kimse sorumluluk almiyor",2026-06-26T11:09:46.848857,2026-06-24T17:40:46.848857,Telegram,,,Kampanya1
+P-0064,b3db8c92515d,Deprem dedektorleri olagan aktivite tespit etti,2026-06-25T18:05:46.848857,2026-06-22T17:40:46.848857,Telegram,,,Kampanya2
+P-0019,e57f2d113587,"Teknoloji harika seyler, yeni telefonum geldi",2026-05-30T14:37:46.848857,2026-02-10T17:40:46.848857,Twitter,,,Organik
+P-0079,7f11ccc040f7,Bugun ise giderken trafik yogundu,2026-06-06T22:40:46.848857,2026-03-30T17:40:46.848857,Telegram,,P-0075,Organik
+P-0045,866e41084f21,"Bugun mac vardi, bizim takim kazandi",2026-06-02T23:12:46.848857,2026-03-14T17:40:46.848857,Telegram,,,Organik
+P-0138,13e059b5eb28,"Kedim hastalandi, veterinere goturmek lazim",2026-06-12T23:29:46.848857,2026-04-13T17:40:46.848857,Twitter,,,Organik
+P-0170,e57f2d113587,"Pazardan meyve aldim, cok taze",2026-06-15T14:35:46.848857,2026-02-10T17:40:46.848857,Twitter,,,Organik
+P-0057,9f9c95cb326c,Bugun ise giderken trafik yogundu,2026-06-04T19:08:46.848857,2026-01-16T17:40:46.848857,Twitter,,,Organik
+P-0129,b0353b085c58,Arkadasimla uzun zamandir gorusemiyorduk bugun bulustuk,2026-06-11T11:18:46.848857,2026-01-23T17:40:46.848857,Twitter,,,Organik
+P-0287,16d67631b674,Dizi onerisi olan var mi? Yeni ne izlesem bilemedim,2026-06-27T20:11:46.848857,2026-01-18T17:40:46.848857,Twitter,,,Organik
+P-0159,d23c1e33b097,"Bu kitabi kesinlikle okumalisiniz, harika",2026-06-14T13:48:46.848857,2026-05-25T17:40:46.848857,Twitter,,,Organik
+P-0126,42818e9cf793,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-10T15:39:46.848857,2026-03-04T17:40:46.848857,Twitter,,,Organik
+P-0064,002e28a409c8,Sabah erken kalkmak zor ama aliskanlik oluyor,2026-06-05T22:57:46.848857,2026-05-24T17:40:46.848857,Haber,,,Organik
+P-0246,f1ecd708246b,"Bugun yagmur yagdi, semsiyemi unutmusum",2026-06-23T20:44:46.848857,2026-03-22T17:40:46.848857,Twitter,,,Organik
+P-0281,06075f68bd7f,"Bugun mac vardi, bizim takim kazandi",2026-06-26T17:09:46.848857,2026-03-15T17:40:46.848857,Twitter,86464ea38e28,,Organik
+P-0076,d23c1e33b097,"Yilbasi hazirliklari basladi, evi susleyecegim",2026-06-05T07:24:46.848857,2026-05-25T17:40:46.848857,Twitter,,,Organik
+P-0010,c06347724a46,"Saatlerdir elektrik yok, kimse nedenini soylemiyor",2026-06-26T10:14:46.848857,2026-06-24T17:40:46.848857,Twitter,c06347724a46,,Kampanya1

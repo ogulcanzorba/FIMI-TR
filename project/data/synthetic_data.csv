@@ -1,0 +1,421 @@
+post_id,user_id,text,timestamp,account_created_at,source_platform,mentions,repost_of,media_hash,cluster
+P-0299,3f49d43ecff2, Bir meyhane reklamı ancak bu kadar mükemmel yapılabilirdi ,2026-06-28T07:47:43.867554,2026-03-07T02:30:43.867554,Haber,,,de2646c9018faa6c,Organik
+P-0189,cf2bff7179ef,"Sabahları, milli değerlerimize uygun şarkılar söyleyen ve klipler çeken Demet Akalın'ı dinlemeden güne başlayamıyorum.",2026-06-15T17:28:43.867554,2026-03-04T02:30:43.867554,Haber,950c555a627e,,832b14e4d5f35603,Organik
+P-0303,871552dbdfd3,Sistemine sokam ,2026-06-28T11:59:43.867554,2026-01-09T02:30:43.867554,Haber,,,afcbae3c23b1931f,Organik
+P-0075,08c5ad1c2b70,Işte gerizekalilar in diramı,2026-06-05T23:12:43.867554,2026-05-16T02:30:43.867554,Twitter,,,d28e4547050548c5,Organik
+P-0110,1286b68a882e,seni gidi yalaka o pis ağzına bizi alma,2026-06-08T11:48:43.867554,2026-04-21T02:30:43.867554,Twitter,16cefbdc7201,,ea50be994539f271,Organik
+P-0025,bb3012cdaf75,Elektrik kesintisiyle ilgili resmi bir aciklama gelmedi,2026-06-27T16:15:43.867554,2026-06-25T02:30:43.867554,Twitter,,,83875790cc2d1537,Kampanya1
+P-0069,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T19:52:43.867554,2026-06-26T02:30:43.867554,Telegram,4ebea9475ac7,P-0061,d60194a8fb0300fa,Kampanya2
+P-0055,950c555a627e,O formada arma var arma bunu kim attıysa şerefsiz oğlu şerefsizdir.,2026-06-03T12:29:43.867554,2026-01-30T02:30:43.867554,Twitter,,,9c7648c0192ca383,Organik
+P-0019,314adecad2da,hımına koduğumun orospu çocuğu,2026-05-31T17:11:43.867554,2026-04-10T02:30:43.867554,Twitter,,,25681b12529fca4f,Organik
+P-0038,f30a27d63329,"Hülya Avşar, yazlığının havuzunda kulaç atarken poz verip demiş ki; var mısınız böyle her gün 50 dakikaya? Ben varım da havuz yok, para yok, iş yok, yokoğluyok",2026-06-02T08:10:43.867554,2026-05-23T02:30:43.867554,Twitter,,,25054f6ea5ee3e74,Organik
+P-0247,950c555a627e,Muğla Menteşe Belediyesine birkaç gün önce yazdığımız dilekçe dikkate alınmadı her gün gece aralıksız köpek sürüsünün havlamaları seslerinden rahat bir uyku çekemiyoruz artık sinir bozucu seviyeye geldi ve belediyeyi aradığımız da iki kez ilgili birime ileticeklerini söyleyip ,2026-06-23T08:51:43.867554,2026-01-30T02:30:43.867554,Telegram,,,2457ca0678fde804,Organik
+P-0111,86464ea38e28,Biri gidip bir video çeker ve herkese güzel gelir sonraysa ünlenir. Ülke de gençler sadece ünlenmek ve yalnızlık çekmemek istiyor,2026-06-08T19:43:43.867554,2026-01-22T02:30:43.867554,Twitter,,,a8e951c3bcbe9cd1,Organik
+P-0051,3cf7c5caa871,"Sakarya Hendekte patlamada hayatını kaybeden Havva Çelikin eşi Salih Çelik: Milleti kandırıyorlar, algı operasyonu yapıyorlar, dört kişi öldü diyorlar. Ben hastanedeyken kaç tane ceset geldi",2026-06-02T10:26:43.867554,2026-05-07T02:30:43.867554,Haber,,,2b486a9364ef2eaf,Organik
+P-0051,b3db8c92515d,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T16:16:43.867554,2026-06-26T02:30:43.867554,Twitter,,,c876a6dcd1244e36,Kampanya2
+P-0116,de12e21c767c,polis gün sonunda  bize sarılıyorsa minicik yürekler gelip abla biz burada doğduk ne olur taşımasınlar diyorsa güzeldir hayat,2026-06-08T10:05:43.867554,2026-04-25T02:30:43.867554,Twitter,,,ea011c03f192e373,Organik
+P-0018,08c5ad1c2b70,Keşfi zor bir seçmişim ömrüme Ne bir adım geri Ne de den ötesi bir adım ileri Mühür vurmuşum ,2026-05-31T17:17:43.867554,2026-05-16T02:30:43.867554,Twitter,,,7dcef09c031ac78c,Organik
+P-0007,c06347724a46,"#ElektrikKesintisi sehri karanliga bogdu, hala aciklama yapilmadi",2026-06-27T09:40:43.867554,2026-06-25T02:30:43.867554,Twitter,bb3012cdaf75,,93330a963ed0ceb8,Kampanya1
+P-0004,16cefbdc7201,İnsandan azma itten bozma çakal İYİ Partili Levent Özeren mi dir göt veren mi dir şerefsiz herifin tedavi olmak için hastaneye giden Binali Yıldırım ın eşi Semiha Yıldırım hakkında aşağılık sözler ,2026-05-30T11:55:43.867554,2026-02-03T02:30:43.867554,Twitter,,,509f905d82700b34,Organik
+P-0027,4ebea9475ac7,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-26T11:11:43.867554,2026-06-26T02:30:43.867554,Twitter,,,d60194a8fb0300fa,Kampanya2
+P-0073,7f11ccc040f7,Doktora bak günlük kotası 5 hastaymış ulan 9.30da gelmişim ne ara 5 hasta aldın da kotan doldu aq,2026-06-04T18:39:43.867554,2026-01-23T02:30:43.867554,Twitter,,,64482962a969c10c,Organik
+P-0013,a8d943b1eb88,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T08:11:43.867554,2026-06-26T02:30:43.867554,Telegram,,,7201c382ac2bfd21,Kampanya2
+P-0240,f81491f52ced,Sorunun YLın ötesinde mesleki alanın dünya ölçeğine uygun tanımlanmaması ve yasal düzenleme,2026-06-22T22:37:43.867554,2026-05-14T02:30:43.867554,Twitter,,,0fe80c0aa356e2ff,Organik
+P-0070,624a0eefbc27,şirret bi kadın,2026-06-04T14:00:43.867554,2026-04-10T02:30:43.867554,Twitter,,,833421ab37240165,Organik
+P-0060,c66b9193f8f4,evet sonra oldu ama aziz yıldırım ersun yanal ı pezevenk yerine sokup gönderdi,2026-06-03T13:12:43.867554,2026-04-02T02:30:43.867554,Haber,,,d36862a42cfd3e0b,Organik
+P-0252,d75555e64e06,yarrak gibi oyuncuyu basimiza bela ettiler,2026-06-24T18:16:43.867554,2026-04-06T02:30:43.867554,Haber,,,5ea57e6869c02d61,Organik
+P-0265,2e9f7c28cb58,Zamanın ruhunu anlamayana gençlerden tarihi ders.,2026-06-26T10:50:43.867554,2026-03-30T02:30:43.867554,Telegram,,,3f90cafc0fe82c04,Organik
+P-0232,b0353b085c58,HİÇ EFENDİMİZ MEHMEDE KULLUK YAPAN İLE ALLAH A KULLUK YAPAN BİR OLUR MU ,2026-06-21T20:16:43.867554,2026-01-11T02:30:43.867554,Twitter,,,a6c0f79a29d861b5,Organik
+P-0197,758721858bde,"Netflixin, torunun dedeye helal olmasının, cinsiyetlerin, dinlerin konuşulmadığı bir yerden suni gündemlerle uyutulmaya çalışılan ülkeme bakmak öyle acı ki.Bir pazar işte herkes bahçesini suluyor, barbekü yapıyor ben de düşünüyorum içinden çıkamıyorum",2026-06-17T21:56:43.867554,2026-02-10T02:30:43.867554,Telegram,,,3a05b8f100f5910e,Organik
+P-0011,f1ecd708246b,tebrikler çocuklar o zamanlardan bu,2026-05-31T18:15:43.867554,2026-02-16T02:30:43.867554,Telegram,8b6d5b997b72,P-0002,43685e0ee38c799c,Organik
+P-0058,100b70733ef1,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-26T17:58:43.867554,2026-06-26T02:30:43.867554,Haber,4ebea9475ac7,P-0056,c876a6dcd1244e36,Kampanya2
+P-0257,7f11ccc040f7, Köpek otopsiye alındı Anal bölgede parçalanma kaburgalarda kırık akciğerlerinde ve boğazında tahribat var,2026-06-24T09:08:43.867554,2026-01-23T02:30:43.867554,Twitter,,,462320bf574d29ee,Organik
+P-0048,cdbb4249faf4,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T15:35:43.867554,2026-06-26T02:30:43.867554,Twitter,,,c876a6dcd1244e36,Kampanya2
+P-0136,889c0803ab77,babani sik im ,2026-06-10T13:28:43.867554,2026-02-25T02:30:43.867554,Twitter,,,1166ad5d2db29229,Organik
+P-0040,a8d943b1eb88,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T13:29:43.867554,2026-06-26T02:30:43.867554,Telegram,,,c876a6dcd1244e36,Kampanya2
+P-0031,b0353b085c58,bu dallama intihar videosu atmıştı zamanında dimi,2026-06-01T22:33:43.867554,2026-01-11T02:30:43.867554,Haber,e57f2d113587,,84c4ba883b9b1f2f,Organik
+P-0103,002e28a409c8,Gençleri suçlamaktan vazgeçelim. MEB bu tablonun sorumlusudur,2026-06-07T07:34:43.867554,2026-05-28T02:30:43.867554,Twitter,,,2b55000035e2bf1a,Organik
+P-0002,86a95e199421,Şef güzel pizza nasıl yapılır hakkında tüyolar veriyor,2026-05-30T21:14:43.867554,2026-02-19T02:30:43.867554,Haber,,,39679cf847892276,Organik
+P-0065,33e4ae89197a,Götveren tepkilerinizi kendinize saklar mısınız ,2026-06-03T12:59:43.867554,2026-02-24T02:30:43.867554,Twitter,,,f27909943c67e14f,Organik
+P-0280,e57f2d113587,Fahişe ufacık kız bahse geçen konu Sen kaç kişinin altına yattın bunu söyle Tamam iftira olabilir Türk askerini aşağılamaya yönelik bir provokasyon olabilir Ama yaşındaki kız için böyle şeyler yazman senin ahlakını ve ne kadar orospu bir kişilik olduğunu gösteriyor ,2026-06-27T09:29:43.867554,2026-03-15T02:30:43.867554,Twitter,,,78dd95af144e882d,Organik
+P-0002,4ebea9475ac7,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T06:42:43.867554,2026-06-26T02:30:43.867554,Haber,a8d943b1eb88,P--005,c876a6dcd1244e36,Kampanya2
+P-0130,de12e21c767c,yarrak gibi oyuncuyu basimiza bela ettiler,2026-06-10T14:28:43.867554,2026-04-25T02:30:43.867554,Haber,,,7ccf2045dd8a29f9,Organik
+P-0074,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T20:55:43.867554,2026-06-26T02:30:43.867554,Twitter,,P-0073,7201c382ac2bfd21,Kampanya2
+P-0014,8d7bf4456dcf,"Milyonlarca insan elektriksiz, kimse sorumluluk almiyor",2026-06-27T11:07:43.867554,2026-06-25T02:30:43.867554,Twitter,,,cba2f9fb751a1878,Kampanya1
+P-0059,b3db8c92515d,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T17:40:43.867554,2026-06-26T02:30:43.867554,Twitter,cdbb4249faf4,P-0052,d60194a8fb0300fa,Kampanya2
+P-0019,fe7e5e2d5c53,"Kesintinin nedeni siber saldiri olabilir, yetkililer dogrulamiyor",2026-06-27T13:59:43.867554,2026-06-25T02:30:43.867554,Haber,,,cba2f9fb751a1878,Kampanya1
+P-0114,06075f68bd7f,izmir içinde yaşayanlara mezar olmasın yeter malum idareciler saçma sapan işler yerine biraz,2026-06-08T19:27:43.867554,2026-02-26T02:30:43.867554,Telegram,18006da415a9,,88a814b0670bae77,Organik
+P-0112,c66b9193f8f4,"kürt ayrılıkçıların başlıca özelliklerinden biri, türk ulusunu dejenereymiş gibi göstermeye çalışmak. yemezler koçum, iki sokak ötede onayın.",2026-06-08T09:32:43.867554,2026-04-02T02:30:43.867554,Twitter,,,64065bfc91742242,Organik
+P-0210,d75555e64e06,Beyin göçünü engellemeye çalıştığımız gençlere sosyal medyayı yasaklamak gerçekten dahiyane bir fikir...,2026-06-18T18:14:43.867554,2026-04-06T02:30:43.867554,Twitter,,,4367583a6e343334,Organik
+P-0152,2e9f7c28cb58, Köpek otopsiye alındı Anal bölgede parçalanma kaburgalarda kırık akciğerlerinde ve boğazında tahribat var,2026-06-12T20:24:43.867554,2026-03-30T02:30:43.867554,Haber,,,9f2f9c36ec3c656e,Organik
+P-0057,86a95e199421,Cengiz bey dönek ve satılık iki aşşağılık ahmakla değerli vaktini harcamışdır ağzınıza sağlık zahmet olmuş ,2026-06-03T16:49:43.867554,2026-02-19T02:30:43.867554,Telegram,,,b5461dd7d6a14d14,Organik
+P-0135,9f9c95cb326c,sonunda fiziğini giyim kuşamını iyi bir işte kullananlar çıkmış birde albüm gelse klip çekimleri falan bu yıl bizim yılımız,2026-06-10T21:14:43.867554,2026-01-18T02:30:43.867554,Twitter,,,462320bf574d29ee,Organik
+P-0190,7f11ccc040f7,"Diyet yaparken düzenli olarak tartılmak dost mudur, düşman mı?",2026-06-15T12:28:43.867554,2026-01-23T02:30:43.867554,Twitter,,,8fd41e16be6350c5,Organik
+P-0048,c66b9193f8f4, kardes cok garip bi sey bazen cok seviyorum bazen de dünyadaki en mal insan oymus gibi geliyo ,2026-06-02T19:32:43.867554,2026-04-02T02:30:43.867554,Twitter,,,8a3b0c4b1f8df11c,Organik
+P-0077,d23c1e33b097,BU TAGDEKİ HERKESİ BİRBİRİYLE YAKIŞTIRMAYA BAŞLADIM AMA ÇÖPÇATANLIK İŞİNİ ORTAOKULDA AŞIK OLDUĞUM ÇOCUK YAKIN ARKADAŞIMA TUTULUP BENDEN AYARLAMAMI İSTEYİNCE ONLARIDA AYARLAYIP ZİRVEDE BIRAKTIM SOME GAVAT PROBLEMS ,2026-06-05T08:35:43.867554,2026-04-04T02:30:43.867554,Twitter,7a3301f35306,,ab69536d0b1b13a7,Organik
+P-0078,de12e21c767c,"Canlarım, aradaki fark çok az had gidelim yorum yapalım. Görenler rt yapsın orda toplanalım.",2026-06-05T09:02:43.867554,2026-04-25T02:30:43.867554,Twitter,,,be37017ff9a7f698,Organik
+P-0274,618973e16c5c,Oysa onlar kafir biz müslümanız,2026-06-26T20:58:43.867554,2026-01-05T02:30:43.867554,Twitter,,,ea445f69b130ad4b,Organik
+P-0060,4ebea9475ac7,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T17:44:43.867554,2026-06-26T02:30:43.867554,Twitter,,,d60194a8fb0300fa,Kampanya2
+P-0253,16cefbdc7201,"iyi oynadıkları zaman nasıl methiyeler diziyorsak, hata yaptıklarında eleştireceksin lubalilik yok",2026-06-24T09:30:43.867554,2026-02-03T02:30:43.867554,Twitter,,,eadb071b4a93932e,Organik
+P-0141,8238e427683a,"Bütün günümü meditasyona, yoga ve spora, okumaya adıyorum",2026-06-11T12:35:43.867554,2026-03-07T02:30:43.867554,Twitter,,,bcf46111ac6fbcf4,Organik
+P-0025,cf2bff7179ef,havalar oldukça sıcak seyrediyor,2026-06-01T22:33:43.867554,2026-03-04T02:30:43.867554,Twitter,,,5fc3aad827ff2a8b,Organik
+P-0076,4ebea9475ac7,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T21:35:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0069,c876a6dcd1244e36,Kampanya2
+P-0177,c1ae4ec53cda,Doğruları konuşalım,2026-06-14T15:45:43.867554,2026-03-19T02:30:43.867554,Twitter,,,58894b62e45a2542,Organik
+P-0211,cc30836eaa30, Ah be insalık nereye gidiyorsun o kadar ilerledin ki görünmüyorsun,2026-06-18T07:44:43.867554,2026-05-02T02:30:43.867554,Haber,,,a207762ac9e7afce,Organik
+P-0181,d75555e64e06,Şansıma sokayım İnternet hattı çekicek ekipte corona çıktı diye karantinaya almışlar ben harbi bahtımı skeyim ,2026-06-15T09:56:43.867554,2026-04-06T02:30:43.867554,Haber,,P-0173,cf0cf8db2c69317c,Organik
+P-0298,314adecad2da,hayatımda yaptığım en büyük salaklıktı bu,2026-06-28T08:59:43.867554,2026-04-10T02:30:43.867554,Haber,,,2d936550d51725e5,Organik
+P-0175,f81eaaeb364f,Bugünümüze ve geleceğimize sahip çıkmaya çalışırken ne yazık ki geçmişimiz beton yığınları altında kalmış,2026-06-14T18:33:43.867554,2026-04-29T02:30:43.867554,Telegram,,,68d8d257262dedf7,Organik
+P-0003,a8d943b1eb88,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T06:42:43.867554,2026-06-26T02:30:43.867554,Twitter,,,8003a102cefa7b4e,Kampanya2
+P-0133,2207c71b316a,Muğla Menteşe Belediyesine birkaç gün önce yazdığımız dilekçe dikkate alınmadı her gün gece aralıksız köpek sürüsünün havlamaları seslerinden rahat bir uyku çekemiyoruz artık sinir bozucu seviyeye geldi ve belediyeyi aradığımız da iki kez ilgili birime ileticeklerini söyleyip ,2026-06-10T17:04:43.867554,2026-04-03T02:30:43.867554,Telegram,ededb058504f,,42f81958d2c63859,Organik
+P-0021,f81491f52ced,siz hiçbir şeyi haketmiyorsunuz kürtler,2026-05-31T16:19:43.867554,2026-05-14T02:30:43.867554,Twitter,,,57a316cdebd432d2,Organik
+P-0010,cf2bff7179ef,Bak ciddi söylüyorum bugün canlı için barışa okuycaz müslümanlar ment atsın,2026-05-31T22:38:43.867554,2026-03-04T02:30:43.867554,Twitter,,,dbb30e912c3177c7,Organik
+P-0012,b0353b085c58,Bir kere havuzu kurunca bakımı en kolay bitki. Derin bir saksıda bile olur,2026-05-31T23:35:43.867554,2026-01-11T02:30:43.867554,Twitter,,,ef389cab84610e53,Organik
+P-0186,42818e9cf793,en büyük sorun sensin bi siktir hit,2026-06-15T15:05:43.867554,2026-03-09T02:30:43.867554,Haber,,,39938f993a58f168,Organik
+P-0178,2207c71b316a,biraz da müzik,2026-06-14T12:23:43.867554,2026-04-03T02:30:43.867554,Twitter,,,89ac88bfa0ed18a8,Organik
+P-0068,100b70733ef1,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-26T19:42:43.867554,2026-06-26T02:30:43.867554,Twitter,a8d943b1eb88,P-0061,940647207981af89,Kampanya2
+P-0015,a3b230f37408,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T11:48:43.867554,2026-06-25T02:30:43.867554,Haber,fe7e5e2d5c53,P-0013,cba2f9fb751a1878,Kampanya1
+P-0180,b0353b085c58,Sistemine sokam ,2026-06-15T10:32:43.867554,2026-01-11T02:30:43.867554,Twitter,,,11a6a667f447fde6,Organik
+P-0237,f1ecd708246b,şeyhlerinin tekkelerinin beyinlerine vurduğu prangaları kuran balyozuyla kıramayanlar pislik içinde kalmaya mahkumlarba,2026-06-22T23:25:43.867554,2026-02-16T02:30:43.867554,Twitter,,,33569dab3584b63a,Organik
+P-0061,b3db8c92515d,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T17:04:43.867554,2026-06-26T02:30:43.867554,Telegram,,,940647207981af89,Kampanya2
+P-0187,8b6d5b997b72,en büyük sorun sensin bi siktir hit,2026-06-15T09:37:43.867554,2026-02-12T02:30:43.867554,Telegram,,,fecc83a516b790a1,Organik
+P-0067,100b70733ef1,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T19:22:43.867554,2026-06-26T02:30:43.867554,Twitter,100b70733ef1,,7201c382ac2bfd21,Kampanya2
+P-0082,cdbb4249faf4,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-26T21:06:43.867554,2026-06-26T02:30:43.867554,Twitter,a8d943b1eb88,,7201c382ac2bfd21,Kampanya2
+P-0206,13e059b5eb28,hiç bu kadar çaresiz olmamıştı kelimeler,2026-06-17T14:38:43.867554,2026-04-02T02:30:43.867554,Twitter,,,939720d27eb69b1a,Organik
+P-0047,743de3746c60, Sigmund Freud hepimize soruyor Karşınızdaki kişiyi dinliyor musunuz yoksa konuşmak için sıra mı bekliyorsunuz ,2026-06-02T19:23:43.867554,2026-01-07T02:30:43.867554,Twitter,,,d36d1a731cd45f0f,Organik
+P-0209,33e4ae89197a,"Ülkenin gördüğü en büyük vandallık, düşmanlık, vatan hainliği.. Siz niye böylesiniz. Abv ",2026-06-18T20:50:43.867554,2026-02-24T02:30:43.867554,Telegram,,,87cf59a2a0aaef25,Organik
+P-0088,c24f760f01cb,Zalimler için yaşasın cehennem ABD yansın inşallah mazlumun ahı bu İsrail koku kurusun inşallah hayırlı huzurlu akşamlar Şahin kardeşim Allah a emanet olun inşallah yeni güne bismillah ,2026-06-05T23:14:43.867554,2026-05-06T02:30:43.867554,Twitter,,,239507db92b8d467,Organik
+P-0006,002e28a409c8,Kahverengi dese ne diyecekti acaba gerzek ,2026-05-30T20:05:43.867554,2026-05-28T02:30:43.867554,Haber,,,f2ebeaa4266d2f72,Organik
+P-0044,624a0eefbc27,polis gün sonunda  bize sarılıyorsa minicik yürekler gelip abla biz burada doğduk ne olur taşımasınlar diyorsa güzeldir hayat,2026-06-02T22:18:43.867554,2026-04-10T02:30:43.867554,Twitter,7a3301f35306,,2d0d9ae2b9da6dde,Organik
+P-0037,a8d943b1eb88,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T12:29:43.867554,2026-06-26T02:30:43.867554,Twitter,,,8003a102cefa7b4e,Kampanya2
+P-0302,c1ae4ec53cda,polis gün sonunda  bize sarılıyorsa minicik yürekler gelip abla biz burada doğduk ne olur taşımasınlar diyorsa güzeldir hayat,2026-06-28T15:08:43.867554,2026-03-19T02:30:43.867554,Twitter,,,0a5a95b27cb71423,Organik
+P-0001,b3db8c92515d,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T06:55:43.867554,2026-06-26T02:30:43.867554,Twitter,,,d60194a8fb0300fa,Kampanya2
+P-0219,16cefbdc7201,Oysa kim istemez ki her gün ilkbahar günü,2026-06-19T13:12:43.867554,2026-02-03T02:30:43.867554,Telegram,,,ce1b4b658c139a5c,Organik
+P-0261,dfafce1382c7,aptal aptal yorumlarınızla bu halkı kandırmaya bir son verin artık,2026-06-25T13:10:43.867554,2026-02-01T02:30:43.867554,Haber,1286b68a882e,,e127604b61763a0a,Organik
+P-0132,524546f1feff,Büyük yarak istiyorsan zaten insanlıktan çıkmışsın git eşeğin yarağini soktur boğazından çıksın yarak ,2026-06-10T16:21:43.867554,2026-01-22T02:30:43.867554,Twitter,,P-0120,0bf972b488b13300,Organik
+P-0036,cdbb4249faf4,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T12:36:43.867554,2026-06-26T02:30:43.867554,Twitter,cdbb4249faf4,P-0030,c876a6dcd1244e36,Kampanya2
+P-0001,8d7bf4456dcf,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T08:01:43.867554,2026-06-25T02:30:43.867554,Telegram,,,c432d7d6f7364f91,Kampanya1
+P-0049,100b70733ef1,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T15:44:43.867554,2026-06-26T02:30:43.867554,Telegram,a8d943b1eb88,P-0045,7201c382ac2bfd21,Kampanya2
+P-0125,16d67631b674,"Çamaşır makinesinden ses çıkıyor, buzdolabından ses çıkıyor, kapalı televizyondan ses çıkıyor, eşyalardan ses çıkıyor, 21. yüzyılda sessizliğe yer yok. 21. yüzyıldan ses çıkıyor.",2026-06-09T07:46:43.867554,2026-04-15T02:30:43.867554,Twitter,,,04a626a225053d20,Organik
+P-0034,4ebea9475ac7,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T12:34:43.867554,2026-06-26T02:30:43.867554,Telegram,100b70733ef1,P-0028,d60194a8fb0300fa,Kampanya2
+P-0188,86a95e199421,şeyhlerinin tekkelerinin beyinlerine vurduğu prangaları kuran balyozuyla kıramayanlar pislik içinde kalmaya mahkumlarba,2026-06-15T11:15:43.867554,2026-02-19T02:30:43.867554,Twitter,,,fcb90f0c1fadb376,Organik
+P-0066,871552dbdfd3, Gün olur ihanet eden sadakat ister ,2026-06-03T16:56:43.867554,2026-01-09T02:30:43.867554,Twitter,ededb058504f,,0528120592063502,Organik
+P-0023,100b70733ef1,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T10:32:43.867554,2026-06-26T02:30:43.867554,Twitter,4ebea9475ac7,,940647207981af89,Kampanya2
+P-0271,524546f1feff,azizden maaş alan yalaka seni,2026-06-26T12:21:43.867554,2026-01-22T02:30:43.867554,Haber,,,5e0b88fe4a8dd038,Organik
+P-0029,ad02fc85bb76,Elektrik kesintisiyle ilgili resmi bir aciklama gelmedi,2026-06-27T16:03:43.867554,2026-06-25T02:30:43.867554,Twitter,,P-0027,c432d7d6f7364f91,Kampanya1
+P-0104,d75555e64e06, genelde mutlu olmayı amaçlar  okumayı müziği sever tüm bunlarla birlikte sanata olan düşkünlüğünü zaten anlayabiliriz,2026-06-07T23:52:43.867554,2026-04-06T02:30:43.867554,Haber,,,54401e1909b1d7d3,Organik
+P-0139,18006da415a9, posta tecavüzcüyse siktir olup gidip karakola şikayet edersin böyle salak saçma tivitler atıp insanları yargılamayı bırakın bu soktuğumun sapık iftiracı kesimleri yüzünden gerçek mağdurlar unutuluyor ,2026-06-11T17:07:43.867554,2026-02-04T02:30:43.867554,Twitter,,,1ebce166d59b6f4a,Organik
+P-0028,c66b9193f8f4,çarşaf yerine mini etek giyen kadın tecavüze uğrarsa erkek suçsuzdur göz diye birşey var mini etek giyen ceremesini çeker,2026-06-01T16:57:43.867554,2026-04-02T02:30:43.867554,Telegram,,,e1fdb415eb83f453,Organik
+P-0064,524546f1feff,Ortadoğudaki hristiyan musevi ve müslüman kadınlar hariç dünyadaki bütün kadınlar satılık ya da kiralık mı Sen manyakmısın ,2026-06-03T09:41:43.867554,2026-01-22T02:30:43.867554,Telegram,,P-0049,0a3e8c41350cc95f,Organik
+P-0020,8238e427683a,Bugünümüze ve geleceğimize sahip çıkmaya çalışırken ne yazık ki geçmişimiz beton yığınları altında kalmış,2026-05-31T20:05:43.867554,2026-03-07T02:30:43.867554,Twitter,,,318c37d4d46fe5da,Organik
+P-0183,618973e16c5c,"Frontal Lob a uygulanıyor. Epifiz kafatasının ortasında.Frontal lob: Bilinçli düşünme; zarar görmesi durumunda ruh hali, hissiyat değişikliği olabilir.",2026-06-15T13:46:43.867554,2026-01-05T02:30:43.867554,Haber,,,462320bf574d29ee,Organik
+P-0047,b3db8c92515d,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T15:31:43.867554,2026-06-26T02:30:43.867554,Twitter,,,7201c382ac2bfd21,Kampanya2
+P-0018,100b70733ef1,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T09:02:43.867554,2026-06-26T02:30:43.867554,Telegram,,,c876a6dcd1244e36,Kampanya2
+P-0155,de12e21c767c,Twitter da kürt sayısının çok olduğuna yemin edebilirim ama kanıtlayamam.,2026-06-12T13:31:43.867554,2026-04-25T02:30:43.867554,Twitter,,,705baffd4068e52e,Organik
+P-0055,100b70733ef1,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T16:18:43.867554,2026-06-26T02:30:43.867554,Twitter,100b70733ef1,P-0053,d60194a8fb0300fa,Kampanya2
+P-0020,a8d943b1eb88,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T09:46:43.867554,2026-06-26T02:30:43.867554,Telegram,a8d943b1eb88,,c876a6dcd1244e36,Kampanya2
+P-0264,cc30836eaa30,bu ne boyle solcu soylemler emperyalist kusatma falan perincek itinden mi ogreniyorsun bu jargonlari yavsak metin,2026-06-25T19:07:43.867554,2026-05-02T02:30:43.867554,Telegram,,,57a316cdebd432d2,Organik
+P-0196,cf2bff7179ef,Twitter da kürt sayısının çok olduğuna yemin edebilirim ama kanıtlayamam.,2026-06-16T11:05:43.867554,2026-03-04T02:30:43.867554,Haber,3cf7c5caa871,P-0181,d73b68f1b3651217,Organik
+P-0182,d23c1e33b097,Başkasıyla terleyip bana koşarsan verem de olursun götveren de ,2026-06-15T16:36:43.867554,2026-04-04T02:30:43.867554,Telegram,,,71d4ece5c432699b,Organik
+P-0099,1286b68a882e,İyiki varsindan 'geber'e geldik .,2026-06-06T17:16:43.867554,2026-04-21T02:30:43.867554,Haber,,,40a6e823168bf795,Organik
+P-0242,86a95e199421,Aşırı iyi,2026-06-23T22:58:43.867554,2026-02-19T02:30:43.867554,Telegram,7a3301f35306,,7ec2a2e7b9983a48,Organik
+P-0162,d23c1e33b097,bilmuom ama beni sik ,2026-06-12T10:06:43.867554,2026-04-04T02:30:43.867554,Twitter,,,cb8fb24c9a11c937,Organik
+P-0167,0019ac0ce900,"Öyle leş bir düzen var ki, benden sonra geleceklere iyi güzel bilgiler öğretip insanlığa faydalı olayım demek yerine rakip olarak görüyorlar.",2026-06-13T23:12:43.867554,2026-03-26T02:30:43.867554,Telegram,,,93aa8e9bb2b72c67,Organik
+P-0193,002e28a409c8,orta okul arkadaşımı buldum çok mutluyum,2026-06-16T07:25:43.867554,2026-05-28T02:30:43.867554,Telegram,,,b611d5296c63333f,Organik
+P-0078,b3db8c92515d,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T21:02:43.867554,2026-06-26T02:30:43.867554,Twitter,100b70733ef1,P-0070,8003a102cefa7b4e,Kampanya2
+P-0129,b0353b085c58,Haberin içeriğini okusana mal Laf atıyormuş kadınlara şikayet gelmiş sahil güvenlik adamı bulmuş ,2026-06-10T17:50:43.867554,2026-01-11T02:30:43.867554,Twitter,,,c409e05c75c9ddc5,Organik
+P-0122,2e9f7c28cb58,akşam görüşelim mi diyene otomatik olarak bira ısmarlarsan olur diyorum konsomatris oldum iyice,2026-06-09T11:19:43.867554,2026-03-30T02:30:43.867554,Telegram,,,898b7ec8e80ec77e,Organik
+P-0032,f1ecd708246b,Twitter da kürt sayısının çok olduğuna yemin edebilirim ama kanıtlayamam.,2026-06-01T23:22:43.867554,2026-02-16T02:30:43.867554,Haber,,,48a0ac75b51861ce,Organik
+P-0062,b3db8c92515d,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T18:41:43.867554,2026-06-26T02:30:43.867554,Twitter,a8d943b1eb88,,940647207981af89,Kampanya2
+P-0027,55557067bf21,Elektrik kesintisi kriz yonetimi tamamen basarisiz,2026-06-27T16:24:43.867554,2026-06-25T02:30:43.867554,Haber,,,cba2f9fb751a1878,Kampanya1
+P-0157,c24f760f01cb,herkes sizin gibi salak mi,2026-06-12T21:29:43.867554,2026-05-06T02:30:43.867554,Twitter,,,6edeef575ddad56f,Organik
+P-0081,f81491f52ced,Senim salak olduğunu biliyordum da bu ne harbiden ,2026-06-05T11:41:43.867554,2026-05-14T02:30:43.867554,Twitter,,,b8b14f33ae743eb2,Organik
+P-0012,a3b230f37408,"Milyonlarca insan elektriksiz, kimse sorumluluk almiyor",2026-06-27T11:40:43.867554,2026-06-25T02:30:43.867554,Telegram,,,70c84f8651546d15,Kampanya1
+P-0231,f1ecd708246b,40 yaş altı vakaların hiç birinin ölmeyeceğine bahse girerim. İsterseniz hepinizle bahse girerim.,2026-06-21T10:59:43.867554,2026-02-16T02:30:43.867554,Twitter,,,4a55a72f4f992d86,Organik
+P-0059,8238e427683a,"Sakarya Hendekte patlamada hayatını kaybeden Havva Çelikin eşi Salih Çelik: Milleti kandırıyorlar, algı operasyonu yapıyorlar, dört kişi öldü diyorlar. Ben hastanedeyken kaç tane ceset geldi",2026-06-03T11:18:43.867554,2026-03-07T02:30:43.867554,Twitter,,,b3cbcb3190d52411,Organik
+P-0153,f1ecd708246b,"Evleniyorsun, balayına gitmişsin, kahvaltıda eşin şey diyor Beynimizin %10unu kullanıyoruz aşkım, hepsini kullansak var ya offff.",2026-06-12T18:29:43.867554,2026-02-16T02:30:43.867554,Twitter,,,f35a5583730b5ae7,Organik
+P-0101,cc30836eaa30,siz hiçbir şeyi haketmiyorsunuz kürtler,2026-06-07T08:48:43.867554,2026-05-02T02:30:43.867554,Haber,,,462320bf574d29ee,Organik
+P-0215,86a95e199421, Olayın aslını bilmeden `` Ama o da evli adam ile başlayan cümleler kurup katilin partisi üzerinden prim yapmaya çalışanların allah bin belasını versin,2026-06-19T20:31:43.867554,2026-02-19T02:30:43.867554,Twitter,42818e9cf793,,4eb9b1cd5c379ad2,Organik
+P-0024,cdbb4249faf4,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T10:21:43.867554,2026-06-26T02:30:43.867554,Telegram,b3db8c92515d,P-0023,c876a6dcd1244e36,Kampanya2
+P-0118,0019ac0ce900,eğer oyunu kurallarına göre oynasaydım söylediklerini yapsaydım iyi bir hayatım olurdu ve bakan olurdum,2026-06-09T14:36:43.867554,2026-03-26T02:30:43.867554,Twitter,86464ea38e28,,2bf553c401f34aa4,Organik
+P-0027,9f9c95cb326c,adam niye ölsün adam yakışıklı ,2026-06-01T21:05:43.867554,2026-01-18T02:30:43.867554,Haber,,,5994d332068bc1d0,Organik
+P-0287,0019ac0ce900,helal olsun başakşehir e tebrikler bizim gerizeka tudor da acayip kadro sürsün amk,2026-06-27T13:45:43.867554,2026-03-26T02:30:43.867554,Twitter,,,67740d492a0833d3,Organik
+P-0079,06075f68bd7f,floodu mümkün olduğu kadar yayalım arkadaşlar ilkkez oy  kullanacak gençler ve bilgi tazelemek isteyenler,2026-06-05T22:02:43.867554,2026-02-26T02:30:43.867554,Haber,,,c214d5f9be9b8811,Organik
+P-0017,55557067bf21,"Elektrik kesintisi tum sehirde devam ediyor, yetkililerden aciklama yok",2026-06-27T12:15:43.867554,2026-06-25T02:30:43.867554,Haber,ad02fc85bb76,,cba2f9fb751a1878,Kampanya1
+P-0031,b3db8c92515d,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T12:05:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0024,7201c382ac2bfd21,Kampanya2
+P-0090,04fa704f5073,Siz Allah ın ayetlerini hiçe sayıyorsunuz adam devlet işlerini bırakıp sizin evli adamlarla yaşadığınız sorunları mı çözecek Allah eğer adil olacaksanız e kadar evlenin buyuruyor Kıyametleri koparıyorsunuz Diğer kadının hakkını kim koruyormuş anlayabiliyor musunuz şimdi ,2026-06-06T11:51:43.867554,2026-05-17T02:30:43.867554,Twitter,,,87bc52370dfd76b5,Organik
+P-0108,743de3746c60,tatlı dil çiçek açtırmış olabiler,2026-06-08T14:13:43.867554,2026-01-07T02:30:43.867554,Haber,,P-0106,30fe37eb3d41eed7,Organik
+P-0011,8f8ae7647ec0,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T11:57:43.867554,2026-06-25T02:30:43.867554,Twitter,55557067bf21,,93330a963ed0ceb8,Kampanya1
+P-0214,90d619ee1ace,evet sonra oldu ama aziz yıldırım ersun yanal ı pezevenk yerine sokup gönderdi,2026-06-18T17:28:43.867554,2026-03-13T02:30:43.867554,Twitter,7a3301f35306,,98410cc708fdb123,Organik
+P-0277,d23c1e33b097,hepsi show yapmaya geliyor oglum gibi sevdim diyo bizim dombili hala saldiriyor utanma arlanma yok hicbirinde,2026-06-26T14:42:43.867554,2026-04-04T02:30:43.867554,Twitter,,P-0266,930b7d0573e214fa,Organik
+P-0250,e1efe4322b03,git artık gelsen de neye yarar,2026-06-24T22:08:43.867554,2026-03-05T02:30:43.867554,Haber,,,aa5a408a1ec91af2,Organik
+P-0124,06075f68bd7f,hepinizin bildiği gibi konfüçyüsün şöyle bir duası vartanrım bir ev dolusu kitap ile bir  bahçe  dolusu çiçek ver,2026-06-09T19:23:43.867554,2026-02-26T02:30:43.867554,Twitter,,,915db58a5ced87c8,Organik
+P-0119,f81eaaeb364f,Sevdilerinize sımsıkı sarılın ,2026-06-09T12:27:43.867554,2026-04-29T02:30:43.867554,Twitter,7a3301f35306,,0b522d3d03c7ef12,Organik
+P-0017,a8d943b1eb88,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T09:27:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0013,7201c382ac2bfd21,Kampanya2
+P-0012,b3db8c92515d,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T07:47:43.867554,2026-06-26T02:30:43.867554,Telegram,,,d60194a8fb0300fa,Kampanya2
+P-0094,7f11ccc040f7,bu tweetını anlamayacak benım gıbı cok andaval var,2026-06-06T10:47:43.867554,2026-01-23T02:30:43.867554,Haber,,,851dadb162863505,Organik
+P-0267,cc30836eaa30,"Frontal Lob a uygulanıyor. Epifiz kafatasının ortasında.Frontal lob: Bilinçli düşünme; zarar görmesi durumunda ruh hali, hissiyat değişikliği olabilir.",2026-06-26T17:15:43.867554,2026-05-02T02:30:43.867554,Twitter,fa36f16e572b,,a0a5b9b6f971f69b,Organik
+P-0266,b615d000e36f,ciddili bir soru soruyorum elif sen kimsin  survivor,2026-06-26T18:45:43.867554,2026-05-21T02:30:43.867554,Twitter,,,fedc42f65bebf6c0,Organik
+P-0249,1286b68a882e,Kahverengi dese ne diyecekti acaba gerzek ,2026-06-23T13:21:43.867554,2026-04-21T02:30:43.867554,Telegram,,,c62a00b4c6119b27,Organik
+P-0033,4ebea9475ac7,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T12:54:43.867554,2026-06-26T02:30:43.867554,Haber,100b70733ef1,,d60194a8fb0300fa,Kampanya2
+P-0173,06075f68bd7f, Kimseyle ilgilenmiyor kimseyi merak etmiyorum Hayatımda eriştiğim en güzel kafadayım sıfır stres ,2026-06-14T20:46:43.867554,2026-02-26T02:30:43.867554,Twitter,ef8ac0e4c078,,6fab18253785e03b,Organik
+P-0105,90d619ee1ace,hiç bu kadar çaresiz olmamıştı kelimeler,2026-06-07T11:15:43.867554,2026-03-13T02:30:43.867554,Twitter,,,bbbcaa9cfe090366,Organik
+P-0138,2e9f7c28cb58, Gün olur ihanet eden sadakat ister ,2026-06-10T22:33:43.867554,2026-03-30T02:30:43.867554,Twitter,,,d770f1c0722a8681,Organik
+P-0143,314adecad2da,Ee boşuna dememişler kim ahlak bekçiliği yapıyorsa en ahlaksız odur,2026-06-11T22:26:43.867554,2026-04-10T02:30:43.867554,Twitter,f30a27d63329,,47e0db6c6308b4b7,Organik
+P-0275,e1efe4322b03, gelinbenisikin götlek mötlek hayırdır ,2026-06-26T07:55:43.867554,2026-03-05T02:30:43.867554,Telegram,,,e1917d47b4bc2a78,Organik
+P-0015,42818e9cf793,"Bir Gün Bu Memleketin Yanağına Öpücük, Baş Ucuna da Bir Not Bırakıp Gideceğim",2026-05-31T22:40:43.867554,2026-03-09T02:30:43.867554,Twitter,,,5b08805b4fca3120,Organik
+P-0258,dfafce1382c7,Her gün kötü haberlere uyanıyoruz hem de kötülük seviyeleri bir önceki günden daha az olmayan yeni kötü haberlere. Ne fiziksel ne de mental refaha sahip değiliz.,2026-06-24T13:46:43.867554,2026-02-01T02:30:43.867554,Haber,,,cf0cf8db2c69317c,Organik
+P-0095,08c5ad1c2b70,Şansıma sokayım İnternet hattı çekicek ekipte corona çıktı diye karantinaya almışlar ben harbi bahtımı skeyim ,2026-06-06T14:35:43.867554,2026-05-16T02:30:43.867554,Twitter,,,692d1613e7c4ec62,Organik
+P-0236,1286b68a882e,Alt tarafı kadınlar tacize uğruyor darp ediliyor öldürülüyor yakılıp üstüne beton dökülüyor Bunda abartılacak ne var ki Seni milletin başına bela diye dikenin varya ,2026-06-22T22:48:43.867554,2026-04-21T02:30:43.867554,Haber,,,7e0aa5e9d21f3b75,Organik
+P-0046,100b70733ef1,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T14:17:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0038,7201c382ac2bfd21,Kampanya2
+P-0291,f81eaaeb364f,O formada arma var arma bunu kim attıysa şerefsiz oğlu şerefsizdir.,2026-06-27T14:17:43.867554,2026-04-29T02:30:43.867554,Haber,,,6687a6538974f6da,Organik
+P-0029,4ebea9475ac7,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T11:27:43.867554,2026-06-26T02:30:43.867554,Telegram,a8d943b1eb88,,7201c382ac2bfd21,Kampanya2
+P-0072,b3db8c92515d,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-26T20:41:43.867554,2026-06-26T02:30:43.867554,Twitter,,,d60194a8fb0300fa,Kampanya2
+P-0117,f81491f52ced,[ ] Twitter güncellemesi [ ] Şık gözlüklü abiler ve gözlüksüz Seokhwa Çok eğlenceli olan WEi ın reality showu OUi Go Up ı hala izlememişseniz diye selca paylaşıyoruz JANGDAEHYEON KIMDONGHAN KIMYOHAN KANGSEOKHWA ,2026-06-09T17:55:43.867554,2026-05-14T02:30:43.867554,Twitter,,,f318cc70c15648b0,Organik
+P-0010,4ebea9475ac7,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T07:37:43.867554,2026-06-26T02:30:43.867554,Twitter,cdbb4249faf4,,c876a6dcd1244e36,Kampanya2
+P-0137,06075f68bd7f,Acarlar merak etme sende güzel amcik varken,2026-06-10T09:36:43.867554,2026-02-26T02:30:43.867554,Twitter,,,a55bff6ca8bd4f46,Organik
+P-0005,7f11ccc040f7, aradığımı buydum ,2026-05-30T23:54:43.867554,2026-01-23T02:30:43.867554,Haber,,,4db06bf5f0348f2b,Organik
+P-0023,16cefbdc7201, aradığımı buydum ,2026-06-01T19:36:43.867554,2026-02-03T02:30:43.867554,Telegram,,,bbfb5e5c8b269868,Organik
+P-0024,f30a27d63329, Gün olur ihanet eden sadakat ister ,2026-06-01T11:33:43.867554,2026-05-23T02:30:43.867554,Telegram,,,7d9fa410407f1b47,Organik
+P-0038,4ebea9475ac7,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T13:01:43.867554,2026-06-26T02:30:43.867554,Twitter,cdbb4249faf4,,c876a6dcd1244e36,Kampanya2
+P-0089,0019ac0ce900,Ordaki bütün yarışmacılar haksız BARIŞ haklı bunu birkez daha anladık herkesin gerçek yüzü ortaya çıkıyor kurguvivor,2026-06-05T20:35:43.867554,2026-03-26T02:30:43.867554,Twitter,,,d3efdef43fd6b68f,Organik
+P-0010,ad02fc85bb76,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T10:56:43.867554,2026-06-25T02:30:43.867554,Twitter,,,9e8c828f181aa3fe,Kampanya1
+P-0195,e57f2d113587,ve hatta idari soruşturmanın usulen sakatlığına yol açabilecek işlere girişiyorlar,2026-06-16T09:37:43.867554,2026-03-15T02:30:43.867554,Haber,90d619ee1ace,,8a842900b37e359e,Organik
+P-0283,13e059b5eb28,tarihimizin en pahalı kadrolarından birisini böyle vasat beyinsiz bir hocayla tüketemeyiz igor tudor en kısa süre,2026-06-27T14:54:43.867554,2026-04-02T02:30:43.867554,Haber,,,caa6352b8185f2b9,Organik
+P-0075,4ebea9475ac7,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T21:19:43.867554,2026-06-26T02:30:43.867554,Telegram,4ebea9475ac7,,7201c382ac2bfd21,Kampanya2
+P-0292,86464ea38e28,"Ne kadar şerefli bir aile oldukları, yetiştirdikleri insan müsvettesinden belli",2026-06-28T16:43:43.867554,2026-01-22T02:30:43.867554,Twitter,,,2f6b088f6efd9774,Organik
+P-0301,889c0803ab77,ender inşaat itinayla kuyu kazılır,2026-06-28T12:43:43.867554,2026-02-25T02:30:43.867554,Twitter,,,0769f79f1e01517a,Organik
+P-0008,ad02fc85bb76,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T10:10:43.867554,2026-06-25T02:30:43.867554,Telegram,,,47a3c8da0110549a,Kampanya1
+P-0208,950c555a627e,özlüyorum gidiyor musun?,2026-06-18T18:45:43.867554,2026-01-30T02:30:43.867554,Twitter,,,96cc9e552e8604e7,Organik
+P-0154,08c5ad1c2b70, akhisar fener ztk final maçı özetini izledim hasan ali kafana sokam beyinsiz mal ,2026-06-12T21:40:43.867554,2026-05-16T02:30:43.867554,Haber,,,6e980653a890c7e3,Organik
+P-0282,ededb058504f,Büyük yarak istiyorsan zaten insanlıktan çıkmışsın git eşeğin yarağini soktur boğazından çıksın yarak ,2026-06-27T16:56:43.867554,2026-03-23T02:30:43.867554,Telegram,,,d7176455a765a0d8,Organik
+P-0176,e1efe4322b03,Yeniden yapılandırma olacak mı? Faiz indirimi öncesinde kredi çekenler yapılandırma bekliyor.,2026-06-14T15:46:43.867554,2026-03-05T02:30:43.867554,Haber,,,a9c80e7af14239c9,Organik
+P-0071,7a3301f35306,tatlı dil çiçek açtırmış olabiler,2026-06-04T07:16:43.867554,2026-05-27T02:30:43.867554,Twitter,,,06d868a36293dfa3,Organik
+P-0225,002e28a409c8,Adaletsiz adalet bakanlığı defol,2026-06-20T14:35:43.867554,2026-05-28T02:30:43.867554,Haber,,,f300d1c8ab93b978,Organik
+P-0045,86464ea38e28,Valla şaka yaptım kız,2026-06-02T18:02:43.867554,2026-01-22T02:30:43.867554,Twitter,,,9e928e35de6591c1,Organik
+P-0098,743de3746c60, `` Köpek kelimesini insanlar için hakaret olarak kullananlar siz hiç dostu öldüğünde mezarında yatan bir insan gördünüz mü ,2026-06-06T20:18:43.867554,2026-01-07T02:30:43.867554,Twitter,,,2033b2b62cedfba0,Organik
+P-0039,cdbb4249faf4,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T13:12:43.867554,2026-06-26T02:30:43.867554,Twitter,,,c876a6dcd1244e36,Kampanya2
+P-0144,2207c71b316a,"Bütün günümü meditasyona, yoga ve spora, okumaya adıyorum",2026-06-11T08:17:43.867554,2026-04-03T02:30:43.867554,Twitter,,,2b354e3ddbabad52,Organik
+P-0022,18006da415a9, Katilin evli ve bir KIZ ÇOCUĞU babası olması C M A değil Cemal Metin Avcı ,2026-05-31T20:17:43.867554,2026-02-04T02:30:43.867554,Haber,889c0803ab77,,9758bb3a526a46d3,Organik
+P-0007,a8d943b1eb88,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T06:09:43.867554,2026-06-26T02:30:43.867554,Telegram,a8d943b1eb88,,7201c382ac2bfd21,Kampanya2
+P-0043,cdbb4249faf4,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T13:50:43.867554,2026-06-26T02:30:43.867554,Telegram,a8d943b1eb88,P-0036,d60194a8fb0300fa,Kampanya2
+P-0272,f1ecd708246b,"Mardin Milletvekili Tuma Çelikin seçim çalışmaları sırasında düzenlenen dernek toplantısına katılan bir kadına tecavüz ettiği ortaya çıktıHdpkk, Müslüman Kürt halkının dini manevi yapısını zedeleyen, ahlakını bozan, siyasi olarak ABD ve İsrail'e hizmet eden sapkınlardır",2026-06-26T17:11:43.867554,2026-02-16T02:30:43.867554,Haber,,,b2aa134721310323,Organik
+P-0040,6c29f45c1389,İsmet Paşa'yı anarken Dışişleri Bakanı Numan Menemencioğlu'nu da unutmayalım. Bu vatanın menfati için çalışan her bir kişinin Allah günahlarını affetsin ve cennetiyle ödüllendirsin inşallah.,2026-06-02T14:29:43.867554,2026-01-26T02:30:43.867554,Twitter,dfafce1382c7,,530f664b9f743621,Organik
+P-0050,8238e427683a,ne angut insanlar var ya sanki ben sizin anlamsiz sohbetinizi cekmek zorundayim,2026-06-02T17:32:43.867554,2026-03-07T02:30:43.867554,Twitter,,,57a316cdebd432d2,Organik
+P-0192,c1ae4ec53cda,günaydın prensesler,2026-06-16T09:45:43.867554,2026-03-19T02:30:43.867554,Twitter,86464ea38e28,,2766b8ca5369c93c,Organik
+P-0150,f1ecd708246b,[ ] Twitter güncellemesi [ ] Şık gözlüklü abiler ve gözlüksüz Seokhwa Çok eğlenceli olan WEi ın reality showu OUi Go Up ı hala izlememişseniz diye selca paylaşıyoruz JANGDAEHYEON KIMDONGHAN KIMYOHAN KANGSEOKHWA ,2026-06-11T12:20:43.867554,2026-02-16T02:30:43.867554,Twitter,,,28229059cdd66030,Organik
+P-0026,d75555e64e06,"Adana'da markete gitmek için evinden ayrılan Seda Ö.'yü (30) takip ederek elindeki cep telefonunu kapkaç yöntemiyle çalarak kaçan Şehmuz S., polis tarafından yakalanıp, çıkarıldığı mahkemece tutuklandı.",2026-06-01T16:44:43.867554,2026-04-06T02:30:43.867554,Twitter,90d619ee1ace,,8c56949ea1f7bd80,Organik
+P-0286,1286b68a882e,uc yillik tatil planini yaptigim icin aglamaya zamanin olmucak cemo,2026-06-27T20:06:43.867554,2026-04-21T02:30:43.867554,Twitter,,,4835be40609eee86,Organik
+P-0123,f30a27d63329, Köpek otopsiye alındı Anal bölgede parçalanma kaburgalarda kırık akciğerlerinde ve boğazında tahribat var,2026-06-09T17:18:43.867554,2026-05-23T02:30:43.867554,Twitter,,,d29151ccb8c9304a,Organik
+P-0276,4c101e93d6c2,"Bütün günümü meditasyona, yoga ve spora, okumaya adıyorum",2026-06-26T20:28:43.867554,2026-01-02T02:30:43.867554,Telegram,d23c1e33b097,,1254246828feecd9,Organik
+P-0221,c24f760f01cb,[ ] Twitter güncellemesi [ ] Şık gözlüklü abiler ve gözlüksüz Seokhwa Çok eğlenceli olan WEi ın reality showu OUi Go Up ı hala izlememişseniz diye selca paylaşıyoruz JANGDAEHYEON KIMDONGHAN KIMYOHAN KANGSEOKHWA ,2026-06-20T07:13:43.867554,2026-05-06T02:30:43.867554,Haber,,,84cde67f0e427d3c,Organik
+P-0086,a8d943b1eb88,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T22:37:43.867554,2026-06-26T02:30:43.867554,Telegram,a8d943b1eb88,P-0079,d60194a8fb0300fa,Kampanya2
+P-0003,cf2bff7179ef, kardes cok garip bi sey bazen cok seviyorum bazen de dünyadaki en mal insan oymus gibi geliyo ,2026-05-30T21:29:43.867554,2026-03-04T02:30:43.867554,Twitter,,,e7eb5fa25657ad8a,Organik
+P-0007,524546f1feff,merhaba bir daha tatlı görmek istemiyorum görüşürüz,2026-05-30T19:32:43.867554,2026-01-22T02:30:43.867554,Haber,,P--008,c641451601353e5d,Organik
+P-0126,866e41084f21, Köpek otopsiye alındı Anal bölgede parçalanma kaburgalarda kırık akciğerlerinde ve boğazında tahribat var,2026-06-09T20:43:43.867554,2026-02-27T02:30:43.867554,Twitter,,,e646304a78333ee0,Organik
+P-0072,314adecad2da,"İşte gerçek başarı, büyük gurur..! yürekten kutluyorum",2026-06-04T23:59:43.867554,2026-04-10T02:30:43.867554,Haber,,,5898cb20ce95ce2e,Organik
+P-0058,cf2bff7179ef,Bazıları için cennet bizim içinde cehennem bu dünya ,2026-06-03T15:18:43.867554,2026-03-04T02:30:43.867554,Twitter,,,a11f01121eff9ddd,Organik
+P-0146,618973e16c5c,seni ben bozacağim daracik götün ilk benim güzel büyük yarağimin tadina bakacak,2026-06-11T08:48:43.867554,2026-01-05T02:30:43.867554,Twitter,,,33255977b229f3b7,Organik
+P-0151,8238e427683a,Hatun nude attı hem de braletli,2026-06-12T17:53:43.867554,2026-03-07T02:30:43.867554,Telegram,,,76dd733592fe8fa1,Organik
+P-0100,866e41084f21,seni ben bozacağim daracik götün ilk benim güzel büyük yarağimin tadina bakacak,2026-06-06T18:10:43.867554,2026-02-27T02:30:43.867554,Twitter,,,b1b33954a0b4ea10,Organik
+P-0042,b3db8c92515d,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T13:37:43.867554,2026-06-26T02:30:43.867554,Twitter,,,940647207981af89,Kampanya2
+P-0290,006c0b18c851,"Tuvaletleri kirlenmesin, temiz kalsın diye kapıları kilitlenen tek ülke kesinlikle Türkiye. Çok garip bir toplumuz",2026-06-27T10:24:43.867554,2026-02-01T02:30:43.867554,Haber,,,599db2f0c14c1bc6,Organik
+P-0251,86464ea38e28,Neden hdp ibnesi ile leri illa yan yana koymaya gayret ediyorsunuz Kürtler nü ülkenin asli unsuru ve bi ülkeyi bölemeyeceksiniz ,2026-06-24T17:41:43.867554,2026-01-22T02:30:43.867554,Twitter,,,7a74b8001d0533f8,Organik
+P-0074,6a386840cd56,En büyük davet allah tarafından geliyor zaten ,2026-06-04T20:44:43.867554,2026-01-01T02:30:43.867554,Haber,,,f582e559327ce157,Organik
+P-0140,7f11ccc040f7,tebrikler çocuklar o zamanlardan bu,2026-06-11T11:36:43.867554,2026-01-23T02:30:43.867554,Twitter,,,4774ce4deb7801ba,Organik
+P-0028,4ebea9475ac7,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T11:42:43.867554,2026-06-26T02:30:43.867554,Twitter,,,940647207981af89,Kampanya2
+P-0174,86464ea38e28,Yunan dostlarına nasıl izahat verecek onu düşünüyordur Istanbul şeysi ,2026-06-14T08:19:43.867554,2026-01-22T02:30:43.867554,Telegram,314adecad2da,,57a316cdebd432d2,Organik
+P-0171,6c29f45c1389,29 Ekim 1923 tarihli cumhuriyetin ilanına ilişkin kararın iptali için ilk kim başvuracak ve mahkemelerin kararına saygımız var ilk kim diyecek bakalım ?,2026-06-13T16:40:43.867554,2026-01-26T02:30:43.867554,Twitter,,P-0162,043979683b1caaf4,Organik
+P-0131,8b6d5b997b72,Sadece erkekler sapık değildir dndndjdnjdndxjdndndnx ,2026-06-10T07:30:43.867554,2026-02-12T02:30:43.867554,Haber,002e28a409c8,,fd88df3a60710ea7,Organik
+P-0002,8f8ae7647ec0,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T08:37:43.867554,2026-06-25T02:30:43.867554,Twitter,,P-0000,cba2f9fb751a1878,Kampanya1
+P-0166,743de3746c60,arkadaş sizin din farklı herhalde kul hakkı yemek dolandırmak ne zamandan beridir hoş karşılanır lah sizin gibi zihniyetlerin belasını versin ,2026-06-13T16:49:43.867554,2026-01-07T02:30:43.867554,Haber,,,ca25edf4e5502ced,Organik
+P-0238,86464ea38e28,bu kadın programa göz mü dikti naptı öve öve bitiremedi acuna bi mesajı mı vardır nedir,2026-06-22T13:53:43.867554,2026-01-22T02:30:43.867554,Twitter,,,4fc443607a99153c,Organik
+P-0185,f81eaaeb364f,Cok değişik bir senaryoymuş ,2026-06-15T16:06:43.867554,2026-04-29T02:30:43.867554,Twitter,,,0943ee69c0d50cdc,Organik
+P-0300,6c29f45c1389,Başkasıyla terleyip bana koşarsan verem de olursun götveren de ,2026-06-28T18:48:43.867554,2026-01-26T02:30:43.867554,Telegram,,,521f7bff3c78588b,Organik
+P-0065,b3db8c92515d,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T18:05:43.867554,2026-06-26T02:30:43.867554,Telegram,a8d943b1eb88,,c876a6dcd1244e36,Kampanya2
+P-0030,f81491f52ced,Ukraynadan turist kafilesi geldi... Kievden gelen turistler lokumlarla karşılandı,2026-06-01T18:29:43.867554,2026-05-14T02:30:43.867554,Twitter,,P-0023,53e1fdb5dcc58e89,Organik
+P-0191,002e28a409c8,avrupa daki 201 mücadelesine porto karşısında çıkacak beşiktaş a başarılar dileriz,2026-06-15T21:16:43.867554,2026-05-28T02:30:43.867554,Twitter,,,a2c585117b7ab713,Organik
+P-0011,b3db8c92515d,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T07:43:43.867554,2026-06-26T02:30:43.867554,Telegram,,,940647207981af89,Kampanya2
+P-0034,743de3746c60,hepsi show yapmaya geliyor oglum gibi sevdim diyo bizim dombili hala saldiriyor utanma arlanma yok hicbirinde,2026-06-01T14:22:43.867554,2026-01-07T02:30:43.867554,Haber,,,c10242ce3db6bec0,Organik
+P-0279,dfafce1382c7,çarşaf yerine mini etek giyen kadın tecavüze uğrarsa erkek suçsuzdur göz diye birşey var mini etek giyen ceremesini çeker,2026-06-26T08:00:43.867554,2026-02-01T02:30:43.867554,Twitter,,,bdd8ba6cd289a010,Organik
+P-0229,2207c71b316a,kadın ağlayarak yolda kedisini arıyor naapsın bacım bu kedi bahar gelmiş kızışmış dışarı çıkıp çiftleşecek naapsın,2026-06-21T09:05:43.867554,2026-04-03T02:30:43.867554,Twitter,,,44c2324eb4af6b27,Organik
+P-0053,4c101e93d6c2,Muhakkak ki her Dil güzeldir Ama senin bende ki yerin Ayrıdır ,2026-06-03T21:20:43.867554,2026-01-02T02:30:43.867554,Telegram,,,61923b918339f002,Organik
+P-0042,b8be3d182d40,galiba demokrasi adına demokrasi düşmanlarına müsamaha ede ede kendimizi de demokrasimizi de yok edeceğiz korkarım,2026-06-02T12:31:43.867554,2026-03-15T02:30:43.867554,Twitter,,P-0035,9bb95d2ab048269d,Organik
+P-0056,4ebea9475ac7,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T17:04:43.867554,2026-06-26T02:30:43.867554,Twitter,,,8003a102cefa7b4e,Kampanya2
+P-0087,b3db8c92515d,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T22:06:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0080,7201c382ac2bfd21,Kampanya2
+P-0273,04fa704f5073,Maskeni sikem o ne laaaa ,2026-06-26T20:41:43.867554,2026-05-17T02:30:43.867554,Twitter,,P-0259,8d1576bf8ec128f0,Organik
+P-0304,950c555a627e,ne güzelsin çocuk,2026-06-28T18:04:43.867554,2026-01-30T02:30:43.867554,Twitter,,,668a0e59a9ab4533,Organik
+P-0248,c1ae4ec53cda, Efendim beyiniz tam dayağa durmuşken bi hal hatır sorun gel hele gel otur nooldu sana işler güçler nasıl çay koyam içersi ,2026-06-23T22:18:43.867554,2026-03-19T02:30:43.867554,Twitter,,,c184cbcdeb4fa7f6,Organik
+P-0212,d23c1e33b097, Sakarya Serdivan da D karayolu yakınında mm obüs mühimmatı olduğu değerlendirilen bir cismin bulunduğu ihbarının alı ,2026-06-18T17:58:43.867554,2026-04-04T02:30:43.867554,Twitter,,,f68aa5e4abf488d0,Organik
+P-0018,ad02fc85bb76,"Sehir genelinde elektrik yok, panik buyuyor",2026-06-27T13:08:43.867554,2026-06-25T02:30:43.867554,Twitter,,,47a3c8da0110549a,Kampanya1
+P-0043,dfafce1382c7,Yuh bu uygulama fikri aklıma nasıl gelmedi aşırı iyi,2026-06-02T14:13:43.867554,2026-02-01T02:30:43.867554,Twitter,,,942ab3344973a99b,Organik
+P-0200,c66b9193f8f4,arkadaş sizin din farklı herhalde kul hakkı yemek dolandırmak ne zamandan beridir hoş karşılanır lah sizin gibi zihniyetlerin belasını versin ,2026-06-17T17:24:43.867554,2026-04-02T02:30:43.867554,Twitter,,,1340bc357af22658,Organik
+P-0026,fe7e5e2d5c53,"Sular da kesildi, cunku pompalar calismiyor",2026-06-27T16:05:43.867554,2026-06-25T02:30:43.867554,Twitter,,,93330a963ed0ceb8,Kampanya1
+P-0243,c24f760f01cb,surede kadınlara açıkça mal eşya güçsüz ifadeleri mi var yoksa bazı erkeklerin kadınlar ,2026-06-23T15:27:43.867554,2026-05-06T02:30:43.867554,Twitter,,,19f4b3d29936a157,Organik
+P-0052,90d619ee1ace,"32 yaşındaki gayet sağlıklı ve hiçbir hastalığı bulunmayan 20 senelik arkadaşımın COVID-19'tan öldüğünü öğrendim az önce. İyileşiyordu, morali de iyiydi ama bir hafta içinde gitti adam. Son bir kere göremeyeceğim bile apar topar gömecekler. İki çocuğu yetim kaldı. Aşırı üzgünüm.",2026-06-02T15:41:43.867554,2026-03-13T02:30:43.867554,Twitter,,P-0044,eaf353cd1b88c71d,Organik
+P-0056,002e28a409c8,Doktora bak günlük kotası 5 hastaymış ulan 9.30da gelmişim ne ara 5 hasta aldın da kotan doldu aq,2026-06-03T15:39:43.867554,2026-05-28T02:30:43.867554,Twitter,,,a97177a48dd064e2,Organik
+P-0202,7f11ccc040f7,Ortadoğudaki hristiyan musevi ve müslüman kadınlar hariç dünyadaki bütün kadınlar satılık ya da kiralık mı Sen manyakmısın ,2026-06-17T14:42:43.867554,2026-01-23T02:30:43.867554,Haber,,P-0198,b5da571a184b7818,Organik
+P-0067,f30a27d63329,en büyük sorun sensin bi siktir hit,2026-06-03T23:31:43.867554,2026-05-23T02:30:43.867554,Haber,,,ff514a76de2c3192,Organik
+P-0226,758721858bde,"Ayakkabılar eskir be. Her şey eskir, bak sen hâlâ sevdiğimsin, sen eskime.",2026-06-20T22:36:43.867554,2026-02-10T02:30:43.867554,Twitter,,,462320bf574d29ee,Organik
+P-0256,0019ac0ce900,Hepsinin yüzüne konuştu. Yasinle o kadar kavga eden tek kişi.Yunus Emrenin bile yüzüne seni yazarım demiş birisi,2026-06-24T08:00:43.867554,2026-03-26T02:30:43.867554,Haber,,,0aa91c6c8cf55063,Organik
+P-0073,b3db8c92515d,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T20:30:43.867554,2026-06-26T02:30:43.867554,Twitter,,,c876a6dcd1244e36,Kampanya2
+P-0022,b3db8c92515d,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T10:18:43.867554,2026-06-26T02:30:43.867554,Telegram,100b70733ef1,,c876a6dcd1244e36,Kampanya2
+P-0220,2e9f7c28cb58,adam niye ölsün adam yakışıklı ,2026-06-20T08:23:43.867554,2026-03-30T02:30:43.867554,Twitter,,,29397815e212f21e,Organik
+P-0006,4ebea9475ac7,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T06:42:43.867554,2026-06-26T02:30:43.867554,Haber,cdbb4249faf4,,940647207981af89,Kampanya2
+P-0194,d75555e64e06,helal olsun başakşehir e tebrikler bizim gerizeka tudor da acayip kadro sürsün amk,2026-06-16T11:07:43.867554,2026-04-06T02:30:43.867554,Twitter,,,e6c7f7a30ad48e89,Organik
+P-0198,f30a27d63329,Ya geyiklerin değil de sizin nesliniz tükenir inşallah zihniyetinize sokayım ,2026-06-17T22:03:43.867554,2026-05-23T02:30:43.867554,Twitter,,,dba75e8c07925ebd,Organik
+P-0121,04fa704f5073,gelinen nokta tamda bu yani,2026-06-09T19:51:43.867554,2026-05-17T02:30:43.867554,Twitter,,,b955270275e543c2,Organik
+P-0222,006c0b18c851,"Peygamber develeri, genelde kendinden küçük böceklerle beslenir. Eğer protein ihtiyacını tam karşılayamaz ise iri örümcek, çıyan, yılan, fare gibi kendinden büyük canlılarla da beslenebilir.",2026-06-20T22:31:43.867554,2026-02-01T02:30:43.867554,Twitter,,,fa6a7dd442cdb669,Organik
+P-0064,100b70733ef1,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T18:34:43.867554,2026-06-26T02:30:43.867554,Telegram,,,8003a102cefa7b4e,Kampanya2
+P-0268,13e059b5eb28,Kendileri gezemedikleri için başkalarının da enerjisini sömürüp gezememesini sağlamaya çalışıyorlar sadece,2026-06-26T09:49:43.867554,2026-04-02T02:30:43.867554,Telegram,,,5524a398ae7c406d,Organik
+P-0071,4ebea9475ac7,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T19:19:43.867554,2026-06-26T02:30:43.867554,Twitter,,,d60194a8fb0300fa,Kampanya2
+P-0014,002e28a409c8,Yuh bu uygulama fikri aklıma nasıl gelmedi aşırı iyi,2026-05-31T17:08:43.867554,2026-05-28T02:30:43.867554,Twitter,,,83fb29a5d9e87774,Organik
+P-0297,e57f2d113587,babani sik im ,2026-06-28T14:47:43.867554,2026-03-15T02:30:43.867554,Twitter,,,5f80dd300a470572,Organik
+P-0066,100b70733ef1,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T19:33:43.867554,2026-06-26T02:30:43.867554,Haber,100b70733ef1,,d60194a8fb0300fa,Kampanya2
+P-0054,a8d943b1eb88,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T16:35:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0053,940647207981af89,Kampanya2
+P-0285,e1efe4322b03,Hocam bu ameliyathane resimleri yarın öbürgün başınıza iş açar Allah göstermesin hastanızın vadesi dolar resimi olur başınıza bela olur dostane ,2026-06-27T16:35:43.867554,2026-03-05T02:30:43.867554,Twitter,,,b1b68de24681d1e3,Organik
+P-0147,68579a54985c,bu kadın programa göz mü dikti naptı öve öve bitiremedi acuna bi mesajı mı vardır nedir,2026-06-11T14:19:43.867554,2026-04-28T02:30:43.867554,Twitter,,,a818485548c80922,Organik
+P-0096,b8be3d182d40,kaşar kadın senin gibilere denir işte,2026-06-06T23:56:43.867554,2026-03-15T02:30:43.867554,Haber,,,6bfb11e9084f2b65,Organik
+P-0080,a8d943b1eb88,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-26T21:54:43.867554,2026-06-26T02:30:43.867554,Twitter,100b70733ef1,,8003a102cefa7b4e,Kampanya2
+P-0061,743de3746c60,Tam bağımsız Türkiye yolunda ilk adımlar atıyoruz hayırlı olsun ,2026-06-03T14:15:43.867554,2026-01-07T02:30:43.867554,Twitter,,P-0054,2b48628447ad6bf3,Organik
+P-0241,f30a27d63329,BURSAMIZ BU KİRLETİLMİŞ YÖNETİMDEN KURTULMALI ,2026-06-23T14:43:43.867554,2026-05-23T02:30:43.867554,Twitter,950c555a627e,,83b506692c6d3970,Organik
+P-0041,889c0803ab77,Sik kafalı uşaklar ,2026-06-02T20:15:43.867554,2026-02-25T02:30:43.867554,Twitter,,,b5a1ba80a7870a49,Organik
+P-0015,b3db8c92515d,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T08:01:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0008,940647207981af89,Kampanya2
+P-0165,314adecad2da, Olayın aslını bilmeden `` Ama o da evli adam ile başlayan cümleler kurup katilin partisi üzerinden prim yapmaya çalışanların allah bin belasını versin,2026-06-12T10:37:43.867554,2026-04-10T02:30:43.867554,Haber,,,5c157a6fcdab040c,Organik
+P-0233,ef8ac0e4c078,formasına atatürkü koyan aydın 1 amatör küme takımlarından arslanlı gençliksporu ziyaret ettik,2026-06-21T19:02:43.867554,2026-04-02T02:30:43.867554,Twitter,,,b7848919255a5102,Organik
+P-0086,fa36f16e572b,Ne sokmuşum be acıdan yerinde kıvranıyorsun Ettiğin küfürler konuşacak beynin olmadığının da bi ispatı Hepsini sana iade ediyorum Mal nisanda bu değer biçilmiş Bu güncel değeri değil Belhanda var işte orda Kendi kendine laf sokmaya devam ediyorsun soytari gibisin ,2026-06-05T14:34:43.867554,2026-01-28T02:30:43.867554,Haber,dfafce1382c7,,56e1b4227c197dee,Organik
+P-0003,ad02fc85bb76,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T09:14:43.867554,2026-06-25T02:30:43.867554,Telegram,8f8ae7647ec0,,93330a963ed0ceb8,Kampanya1
+P-0022,a3b230f37408,"Sular da kesildi, cunku pompalar calismiyor",2026-06-27T14:13:43.867554,2026-06-25T02:30:43.867554,Telegram,ad02fc85bb76,,47a3c8da0110549a,Kampanya1
+P-0035,b3db8c92515d,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T12:46:43.867554,2026-06-26T02:30:43.867554,Haber,,,940647207981af89,Kampanya2
+P-0044,a8d943b1eb88,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T14:27:43.867554,2026-06-26T02:30:43.867554,Telegram,b3db8c92515d,,7201c382ac2bfd21,Kampanya2
+P-0169,866e41084f21, gelinbenisikin götlek mötlek hayırdır ,2026-06-13T17:08:43.867554,2026-02-27T02:30:43.867554,Twitter,,,308fc50fc7905248,Organik
+P-0168,9f9c95cb326c,gonullu takimindan nefret edenler fav survivor,2026-06-13T19:07:43.867554,2026-01-18T02:30:43.867554,Twitter,,,d0be8804f8813d89,Organik
+P-0006,fe7e5e2d5c53,"#ElektrikKesintisi sehri karanliga bogdu, hala aciklama yapilmadi",2026-06-27T09:02:43.867554,2026-06-25T02:30:43.867554,Haber,,,70c84f8651546d15,Kampanya1
+P-0260,86464ea38e28,Sen mal misin amk ,2026-06-25T23:21:43.867554,2026-01-22T02:30:43.867554,Haber,,,9553dde900a0ece6,Organik
+P-0037,4c101e93d6c2,Yeniden yapılandırma olacak mı? Faiz indirimi öncesinde kredi çekenler yapılandırma bekliyor.,2026-06-01T09:02:43.867554,2026-01-02T02:30:43.867554,Twitter,,,82e8e55cc7748df2,Organik
+P-0045,4ebea9475ac7,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T14:39:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0041,8003a102cefa7b4e,Kampanya2
+P-0254,002e28a409c8,O formada arma var arma bunu kim attıysa şerefsiz oğlu şerefsizdir.,2026-06-24T11:08:43.867554,2026-05-28T02:30:43.867554,Twitter,,,220cdfa631d6e515,Organik
+P-0164,cf2bff7179ef,Sen mal misin amk ,2026-06-12T11:58:43.867554,2026-03-04T02:30:43.867554,Twitter,,,350f321e67a57b80,Organik
+P-0085,90d619ee1ace,Özel hastanelerde çalışan meslektaşlarımızın ticari kaygı ile iş yapan yöneticilerin insafına bırakılmaması lazım.,2026-06-05T09:06:43.867554,2026-03-13T02:30:43.867554,Twitter,,P-0073,57a316cdebd432d2,Organik
+P-0041,cdbb4249faf4,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T13:19:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0037,8003a102cefa7b4e,Kampanya2
+P-0084,100b70733ef1,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T22:39:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0079,d60194a8fb0300fa,Kampanya2
+P-0204,c1ae4ec53cda,"İşte gerçek başarı, büyük gurur..! yürekten kutluyorum",2026-06-17T18:58:43.867554,2026-03-19T02:30:43.867554,Telegram,,,f0f332998779c62d,Organik
+P-0052,b3db8c92515d,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T16:12:43.867554,2026-06-26T02:30:43.867554,Telegram,,,7201c382ac2bfd21,Kampanya2
+P-0127,8238e427683a,Ananıda satalım ıstersen oc,2026-06-09T19:04:43.867554,2026-03-07T02:30:43.867554,Twitter,,,aba7f7ebdd4dba53,Organik
+P-0016,c06347724a46,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T12:38:43.867554,2026-06-25T02:30:43.867554,Haber,,,014516b71a58ca60,Kampanya1
+P-0087,33e4ae89197a,"Ne kadar şerefli bir aile oldukları, yetiştirdikleri insan müsvettesinden belli",2026-06-05T17:36:43.867554,2026-02-24T02:30:43.867554,Haber,,,fdf231fe7db9f2d5,Organik
+P-0269,18006da415a9,"Ülkücülük MHP de olur diyen arkadaşlar.Adrese gittim yoktunuz, sordum;onlar, AKP ye taşındı dediler.!!!",2026-06-26T16:16:43.867554,2026-02-04T02:30:43.867554,Haber,,,eeff324586bab20d,Organik
+P-0109,524546f1feff,Yunan dostlarına nasıl izahat verecek onu düşünüyordur Istanbul şeysi ,2026-06-08T15:57:43.867554,2026-01-22T02:30:43.867554,Twitter,,,a870b7321e13e0e1,Organik
+P-0263,4c101e93d6c2,sevgilim hacamat yaptırmış yaa kıyamam hasta olduğunu gizlemiş bir de benden tesadüfen gördüm telefonunda,2026-06-25T08:38:43.867554,2026-01-02T02:30:43.867554,Twitter,,P-0261,c4bd70ef7b46add9,Organik
+P-0295,0019ac0ce900,ciddili bir soru soruyorum elif sen kimsin  survivor,2026-06-28T13:17:43.867554,2026-03-26T02:30:43.867554,Haber,,,d3729c4c69ef4b10,Organik
+P-0039,758721858bde,Sorunun YLın ötesinde mesleki alanın dünya ölçeğine uygun tanımlanmaması ve yasal düzenleme,2026-06-02T17:46:43.867554,2026-02-10T02:30:43.867554,Haber,8b6d5b997b72,,eae4b61851a644cb,Organik
+P-0033,90d619ee1ace, Ayasofya kararı iktidara darbe girişimi değilse ben birşey bilmiyorum ,2026-06-01T20:32:43.867554,2026-03-13T02:30:43.867554,Haber,,,5b4f9624dbc3dca8,Organik
+P-0026,100b70733ef1,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T10:31:43.867554,2026-06-26T02:30:43.867554,Telegram,,,d60194a8fb0300fa,Kampanya2
+P-0142,c66b9193f8f4,Götlek kedi fareden kaçar sincabı kovalar senin yapacağın işin ben amk ,2026-06-11T18:00:43.867554,2026-04-02T02:30:43.867554,Haber,,,8c81ace216da2ad8,Organik
+P-0068,4c101e93d6c2,tc halkinin evlilige bakis acisi beni cok yoruo,2026-06-04T17:50:43.867554,2026-01-02T02:30:43.867554,Haber,,,0ddba85df9025dd1,Organik
+P-0223,fa36f16e572b,Fetocu alçaklar sizin için aklini kaybetti şizofren ama tedaviyi kabul etmiyor diye yalan yayarlar Ağlar sızlarlar ki inandırıcı olsun Etrafınızdaki insanlara saldırgan ve tehlikeli olduğunuz yalanini yayarlar Ki insanlar sizden uzak dursun Sosyal izolasyon yaratırlar ,2026-06-20T18:11:43.867554,2026-01-28T02:30:43.867554,Twitter,,,7a8bfae5759c5b01,Organik
+P-0024,8f8ae7647ec0,Elektrik kesintisiyle ilgili resmi bir aciklama gelmedi,2026-06-27T15:03:43.867554,2026-06-25T02:30:43.867554,Twitter,ad02fc85bb76,P-0022,014516b71a58ca60,Kampanya1
+P-0184,743de3746c60,çün dedin lahmike lahmi kana kanım merhabâ,2026-06-15T18:40:43.867554,2026-01-07T02:30:43.867554,Twitter,,,5d9272f87d45314e,Organik
+P-0004,4ebea9475ac7,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T06:04:43.867554,2026-06-26T02:30:43.867554,Twitter,cdbb4249faf4,,7201c382ac2bfd21,Kampanya2
+P-0288,624a0eefbc27,siz bu millete ihanet eden şerefsiz it sürüsüsünüz,2026-06-27T21:29:43.867554,2026-04-10T02:30:43.867554,Twitter,,P-0276,57a316cdebd432d2,Organik
+P-0244,16cefbdc7201,`` En sık kullanılan kelimeler e rastgele basmışsın gibi geldi Tae xvkdhkgchkv ,2026-06-23T19:37:43.867554,2026-02-03T02:30:43.867554,Haber,,,b7b362432ab997f1,Organik
+P-0245,d75555e64e06,brothers ta john belushi ile james brown yapmışta bu embesil yapınca mı olmamış yani evet olmamı,2026-06-23T16:19:43.867554,2026-04-06T02:30:43.867554,Twitter,,,a815006b4dc597b9,Organik
+P-0032,100b70733ef1,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T12:34:43.867554,2026-06-26T02:30:43.867554,Telegram,4ebea9475ac7,,8003a102cefa7b4e,Kampanya2
+P-0084,8b6d5b997b72, Efendim beyiniz tam dayağa durmuşken bi hal hatır sorun gel hele gel otur nooldu sana işler güçler nasıl çay koyam içersi ,2026-06-05T10:02:43.867554,2026-02-12T02:30:43.867554,Telegram,,,9c7a5d29eec65bea,Organik
+P-0009,55557067bf21,"Kesintinin nedeni siber saldiri olabilir, yetkililer dogrulamiyor",2026-06-27T10:52:43.867554,2026-06-25T02:30:43.867554,Twitter,c06347724a46,P-0005,869fcdcba315ff12,Kampanya1
+P-0046,42818e9cf793,hele haspama bak cemale sadece zararsiniz nisa cemalle o kadar oy atti ama yasin gibi her yere paylasmadigi icin nankör sizin zihniyetinze sokayim evet herkes dogru insan bir tek nisa nankör sizsiniz nankörrrrrrrrrrr ,2026-06-02T21:48:43.867554,2026-03-09T02:30:43.867554,Haber,,,a025fde55da67479,Organik
+P-0106,3cf7c5caa871,sahnede her zaman muhteşem bir şekilde parladığın için teşekkürler jang dongwoo doğum günün kutlu olsun  seviyorum,2026-06-08T08:05:43.867554,2026-05-07T02:30:43.867554,Twitter,6a386840cd56,,6ed9f2f3dd0ca276,Organik
+P-0092,86464ea38e28,"Ne kadar şerefli bir aile oldukları, yetiştirdikleri insan müsvettesinden belli",2026-06-06T13:03:43.867554,2026-01-22T02:30:43.867554,Telegram,90d619ee1ace,,ce5775232a612d5f,Organik
+P-0239,3f49d43ecff2,Terbiyesiz Yeşim Salkım,2026-06-22T21:32:43.867554,2026-03-07T02:30:43.867554,Twitter,8b6d5b997b72,,e9d9d32fbedfcfd6,Organik
+P-0115,624a0eefbc27,Bugün eşimle tl görüşm vard.Sesi zor çıkıyordu belinn ve ayaklarının ağrısındn çok zor konuşuyrdu,2026-06-08T09:05:43.867554,2026-04-10T02:30:43.867554,Telegram,,,628e8032d1fc5082,Organik
+P-0083,314adecad2da,"Paşa gönlüm nasıl isterse öyle davranıyorum Bundan sonra böyle, işinize gelirse.",2026-06-05T19:52:43.867554,2026-04-10T02:30:43.867554,Twitter,,,69850461fe8a0b20,Organik
+P-0093,86a95e199421,Yeşim Salkıma insanların aklıyla alay ediyorsunuz dedim cevabı daha büyük hakaret oldu olmayan şeyle alay edilmez,2026-06-06T13:30:43.867554,2026-02-19T02:30:43.867554,Twitter,,P-0078,c9940665c4e2ba7e,Organik
+P-0017,6c29f45c1389,tebrikler çocuklar o zamanlardan bu,2026-05-31T22:16:43.867554,2026-01-26T02:30:43.867554,Twitter,,,a6f86cf2b485ff34,Organik
+P-0001,9f9c95cb326c, dunki linc tam olarak bu aq ,2026-05-30T12:46:43.867554,2026-01-18T02:30:43.867554,Twitter,,,605bb00dd48f494c,Organik
+P-0179,6a386840cd56,hayatımda yaptığım en büyük salaklıktı bu,2026-06-15T20:14:43.867554,2026-01-01T02:30:43.867554,Haber,,,8ce63108151456f2,Organik
+P-0230,871552dbdfd3, Ben senin kocanım düzgün konuşcaksın senin allah belanı versin beni dinleyeceksin öldürürüm bak kızım seni Amın evladı sene öncesine kadar o odada perde için sen hangisini istersen onu alalım diyodun nikah basınca tapulu malın mı oldu am biti ,2026-06-21T07:50:43.867554,2026-01-09T02:30:43.867554,Twitter,,,1cf0c27db923e213,Organik
+P-0170,4c101e93d6c2,Her gün kötü haberlere uyanıyoruz hem de kötülük seviyeleri bir önceki günden daha az olmayan yeni kötü haberlere. Ne fiziksel ne de mental refaha sahip değiliz.,2026-06-13T09:01:43.867554,2026-01-02T02:30:43.867554,Twitter,c24f760f01cb,,9bffeb7956483858,Organik
+P-0013,dfafce1382c7,"Hayır tıpçılarda da var ama onlara yakışıyor. :)""",2026-05-31T18:50:43.867554,2026-02-01T02:30:43.867554,Telegram,,,0b911db532f43abb,Organik
+P-0063,a8d943b1eb88,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T18:58:43.867554,2026-06-26T02:30:43.867554,Telegram,,,940647207981af89,Kampanya2
+P-0028,ad02fc85bb76,"Elektrik kesintisi tum sehirde devam ediyor, yetkililerden aciklama yok",2026-06-27T16:42:43.867554,2026-06-25T02:30:43.867554,Twitter,55557067bf21,,83875790cc2d1537,Kampanya1
+P-0009,100b70733ef1,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T07:47:43.867554,2026-06-26T02:30:43.867554,Telegram,b3db8c92515d,,7201c382ac2bfd21,Kampanya2
+P-0016,cdbb4249faf4,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T09:01:43.867554,2026-06-26T02:30:43.867554,Twitter,,P-0014,940647207981af89,Kampanya2
+P-0020,bb3012cdaf75,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T13:28:43.867554,2026-06-25T02:30:43.867554,Twitter,,P-0018,83875790cc2d1537,Kampanya1
+P-0293,002e28a409c8,Tecavüzü siyasete ırka bağlamayı kesin artık Yapılan insanlık dışı olayı kürt türk asker akp hdp diye ayırarak önüne gaçmiş olmayacaksınız susmaağrı ,2026-06-28T17:45:43.867554,2026-05-28T02:30:43.867554,Twitter,,,c9b9f833f1046092,Organik
+P-0120,e1efe4322b03,herkes sizin gibi salak mi,2026-06-09T22:38:43.867554,2026-03-05T02:30:43.867554,Twitter,,,bf879eec41c747aa,Organik
+P-0262,3cf7c5caa871,Siktir git önce Türk edebiyatının en önemli eserlerinden birini oku,2026-06-25T07:37:43.867554,2026-05-07T02:30:43.867554,Twitter,,P-0247,45fa3bc7551f1303,Organik
+P-0050,4ebea9475ac7,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-26T15:42:43.867554,2026-06-26T02:30:43.867554,Telegram,4ebea9475ac7,P-0042,7201c382ac2bfd21,Kampanya2
+P-0008,cdbb4249faf4,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T06:57:43.867554,2026-06-26T02:30:43.867554,Telegram,a8d943b1eb88,,7201c382ac2bfd21,Kampanya2
+P-0216,f81491f52ced,"Ülkemizin dört bir yanında sürekli insanlar(özellikle kadınlar ve çocuklar!)kayboluyor.Sosyal medyanın bu kadar güçlü olduğu bir dönemde bu haberleri buralarda daha çok yaymalıyız.Bir gün bu desteğe şahsen ihtiyaç duyabiliriz,unutmayınız.",2026-06-19T14:10:43.867554,2026-05-14T02:30:43.867554,Haber,,,4582f30393bb1056,Organik
+P-0107,fa36f16e572b,natonun soytarı benzeri özür dilemis şerefli biri olsa böyle kahbelik olmaz sizin ne mal olduğunuzu bilmeyen duymay,2026-06-08T20:41:43.867554,2026-01-28T02:30:43.867554,Haber,,,a07b66f991bc9d1b,Organik
+P-0246,fa36f16e572b,O daha survivormuş ,2026-06-23T15:41:43.867554,2026-01-28T02:30:43.867554,Telegram,,,4e0d4e0af347c225,Organik
+P-0077,100b70733ef1,Bilim insanlari susuyor ama deprem kacinilmaz,2026-06-26T21:54:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0074,d60194a8fb0300fa,Kampanya2
+P-0025,4ebea9475ac7,"AFET koordinasyon merkezi gizli toplanti yapti, deprem hazirligi basladi",2026-06-26T10:30:43.867554,2026-06-26T02:30:43.867554,Telegram,,,d60194a8fb0300fa,Kampanya2
+P-0102,b0353b085c58,gonullu takimindan nefret edenler fav survivor,2026-06-07T21:23:43.867554,2026-01-11T02:30:43.867554,Telegram,,,48a59f858e0e1b95,Organik
+P-0235,d23c1e33b097,çok pişman olacağın şeyler yapıyorsun yap bakalım,2026-06-22T17:17:43.867554,2026-04-04T02:30:43.867554,Telegram,,,1bd39cf7f6b6ef00,Organik
+P-0296,d23c1e33b097,bu kadın programa göz mü dikti naptı öve öve bitiremedi acuna bi mesajı mı vardır nedir,2026-06-28T16:13:43.867554,2026-04-04T02:30:43.867554,Twitter,,,0d046ae221920d04,Organik
+P-0207,de12e21c767c,Oysa onlar kafir biz müslümanız,2026-06-17T17:45:43.867554,2026-04-25T02:30:43.867554,Haber,,P-0197,acab0d1474f2aa84,Organik
+P-0228,c1ae4ec53cda,Doğruları konuşalım,2026-06-21T20:12:43.867554,2026-03-19T02:30:43.867554,Twitter,,,7b8cb81cb9932844,Organik
+P-0079,b3db8c92515d,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T21:46:43.867554,2026-06-26T02:30:43.867554,Haber,a8d943b1eb88,P-0072,8003a102cefa7b4e,Kampanya2
+P-0005,b3db8c92515d,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T06:18:43.867554,2026-06-26T02:30:43.867554,Telegram,,,8003a102cefa7b4e,Kampanya2
+P-0205,d75555e64e06,bilmuom ama beni sik ,2026-06-17T13:53:43.867554,2026-04-06T02:30:43.867554,Haber,,,cf0cf8db2c69317c,Organik
+P-0004,c06347724a46,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T09:13:43.867554,2026-06-25T02:30:43.867554,Twitter,,,83875790cc2d1537,Kampanya1
+P-0158,13e059b5eb28,Zalimler için yaşasın cehennem ABD yansın inşallah mazlumun ahı bu İsrail koku kurusun inşallah hayırlı huzurlu akşamlar Şahin kardeşim Allah a emanet olun inşallah yeni güne bismillah ,2026-06-12T12:55:43.867554,2026-04-02T02:30:43.867554,Twitter,,P-0147,d51ed913556e6309,Organik
+P-0160,866e41084f21,selma anne bedelli askerlik ve diger konulardaki gençlere hassasiyetinizin farkindayiz,2026-06-12T10:00:43.867554,2026-02-27T02:30:43.867554,Twitter,,,462320bf574d29ee,Organik
+P-0057,cdbb4249faf4,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T17:15:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0050,d60194a8fb0300fa,Kampanya2
+P-0021,100b70733ef1,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T10:42:43.867554,2026-06-26T02:30:43.867554,Telegram,4ebea9475ac7,,7201c382ac2bfd21,Kampanya2
+P-0014,cdbb4249faf4,Prof. Dr. X: 48 saat icinde buyuk deprem olabilir,2026-06-26T08:10:43.867554,2026-06-26T02:30:43.867554,Telegram,100b70733ef1,P-0010,c876a6dcd1244e36,Kampanya2
+P-0259,2e9f7c28cb58,Sorunun YLın ötesinde mesleki alanın dünya ölçeğine uygun tanımlanmaması ve yasal düzenleme,2026-06-24T14:14:43.867554,2026-03-30T02:30:43.867554,Twitter,e1efe4322b03,,740227a6a9d9694a,Organik
+P-0284,c24f760f01cb,felsefe siyaset şiir ve sanat dallarında ilerleme kaydetmiş insanların hepsinin hüzne eğilimi vardır,2026-06-27T21:07:43.867554,2026-05-06T02:30:43.867554,Twitter,,,74784e1326bc6c6c,Organik
+P-0070,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T19:48:43.867554,2026-06-26T02:30:43.867554,Twitter,100b70733ef1,P-0066,c876a6dcd1244e36,Kampanya2
+P-0218,04fa704f5073,hayatımda yaptığım en büyük salaklıktı bu,2026-06-19T22:45:43.867554,2026-05-17T02:30:43.867554,Twitter,,,ce4371c4e9c14558,Organik
+P-0036,8b6d5b997b72,"Memlekette tüm AVMler açılmış, plajlar dolmuş, lig maçları başlamış, pazarlar kurulmuş ve herkes sokakta iken 65 yaş üstünü eve tıkmanın bir anlamı var mı? Hepimizden daha dikkatli ve bilinçli olan bu gurubu üzmeyelim artık, kaldıralım yasağı",2026-06-01T11:10:43.867554,2026-02-12T02:30:43.867554,Haber,,,cf0cf8db2c69317c,Organik
+P-0023,8f8ae7647ec0,"Kesintinin nedeni siber saldiri olabilir, yetkililer dogrulamiyor",2026-06-27T15:06:43.867554,2026-06-25T02:30:43.867554,Twitter,,,c432d7d6f7364f91,Kampanya1
+P-0134,618973e16c5c,tıpkı sürtük ermeni ailesi kardaşiyanlar gibi kancık ermenistanda onun bunun altına girmekle tadını herkese tattırarak varlığını sürdürmekte ,2026-06-10T12:59:43.867554,2026-01-05T02:30:43.867554,Twitter,,,dba662073a3cb7b6,Organik
+P-0278,33e4ae89197a,İnsandan azma itten bozma çakal İYİ Partili Levent Özeren mi dir göt veren mi dir şerefsiz herifin tedavi olmak için hastaneye giden Binali Yıldırım ın eşi Semiha Yıldırım hakkında aşağılık sözler ,2026-06-26T22:22:43.867554,2026-02-24T02:30:43.867554,Twitter,,,378255a66eb7d71c,Organik
+P-0145,86464ea38e28,Hemen domal gireyim sana ,2026-06-11T23:07:43.867554,2026-01-22T02:30:43.867554,Haber,,,52755d37598f75de,Organik
+P-0148,06075f68bd7f,Hepsinin yüzüne konuştu. Yasinle o kadar kavga eden tek kişi.Yunus Emrenin bile yüzüne seni yazarım demiş birisi,2026-06-11T10:49:43.867554,2026-02-26T02:30:43.867554,Haber,,,fd69f855e1e547e3,Organik
+P-0076,9f9c95cb326c,Özel hastanelerde çalışan meslektaşlarımızın ticari kaygı ile iş yapan yöneticilerin insafına bırakılmaması lazım.,2026-06-05T22:05:43.867554,2026-01-18T02:30:43.867554,Haber,,,83580e76680f2c66,Organik
+P-0149,6c29f45c1389, Kendileri söyleyemiyor Atadıklarına Satılık Kiralık Kalemlerine Trollerine söyletip nabız tutuyorlar FETÖ ye AF Gündem ,2026-06-11T20:10:43.867554,2026-01-26T02:30:43.867554,Twitter,,P-0143,191d7fd122981717,Organik
+P-0013,8d7bf4456dcf,"Elektrik kesintisi tum sehirde devam ediyor, yetkililerden aciklama yok",2026-06-27T11:33:43.867554,2026-06-25T02:30:43.867554,Telegram,8d7bf4456dcf,,48fdbf5389a39297,Kampanya1
+P-0029,de12e21c767c,SUS LAN BURAK KODUMUN APTALI OC KÖPEK PİSLİK EVET HERKES HAKSIZ BARIŞ HAKLI CNM GÖTÜNE NEFRET EDİYORUM SENDEN PİC ,2026-06-01T23:14:43.867554,2026-04-25T02:30:43.867554,Haber,,,319246f139fd9f93,Organik
+P-0255,b615d000e36f, kardes cok garip bi sey bazen cok seviyorum bazen de dünyadaki en mal insan oymus gibi geliyo ,2026-06-24T17:55:43.867554,2026-05-21T02:30:43.867554,Twitter,,,02dfa9507313f6dd,Organik
+P-0161,524546f1feff,Geber pislik Zebaniler seni bekliyor.,2026-06-12T17:52:43.867554,2026-01-22T02:30:43.867554,Twitter,90d619ee1ace,,a92cf77ae4143dc5,Organik
+P-0016,524546f1feff,allah seni kahretsin şerefsiz lgbtci,2026-05-31T08:50:43.867554,2026-01-22T02:30:43.867554,Twitter,,,c403e59074d99c1a,Organik
+P-0082,d75555e64e06, kardes cok garip bi sey bazen cok seviyorum bazen de dünyadaki en mal insan oymus gibi geliyo ,2026-06-05T14:53:43.867554,2026-04-06T02:30:43.867554,Haber,,,9d2e9d2962b89d98,Organik
+P-0281,743de3746c60,milletimizin kalbinde yaşayan demokrasi şehidimiz adnan menderes in adını taşıyan izmir havalimanımız bugün 30 hizmet y,2026-06-27T22:47:43.867554,2026-01-07T02:30:43.867554,Twitter,0019ac0ce900,P-0279,c78ce01a20eda465,Organik
+P-0080,cc30836eaa30,insanın kendi iradesi ve isteğiyle parasını vererek izlemek istediği içeriklerinden oluşan Netflixin yasaklanması kabul edilemez. insanların ne izlemek istediğine karar vermek ve bunun önüne geçmek istemek kimsenin haddi değil. sansürcü zihniyetinize yeter artık!,2026-06-05T20:23:43.867554,2026-05-02T02:30:43.867554,Twitter,,,f570c269c030f47d,Organik
+P-0049,006c0b18c851, Sakarya Serdivan da D karayolu yakınında mm obüs mühimmatı olduğu değerlendirilen bir cismin bulunduğu ihbarının alı ,2026-06-02T23:08:43.867554,2026-02-01T02:30:43.867554,Twitter,,,23da08e135230347,Organik
+P-0234,06075f68bd7f,Boş işlerle uğraşmayı benden daha çok seven birini görünce çok şaşırıyorum,2026-06-21T18:01:43.867554,2026-02-26T02:30:43.867554,Twitter,,,bc6b087badb944f0,Organik
+P-0021,55557067bf21,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T14:45:43.867554,2026-06-25T02:30:43.867554,Haber,fe7e5e2d5c53,,70c84f8651546d15,Kampanya1
+P-0009,de12e21c767c,Yuh bu uygulama fikri aklıma nasıl gelmedi aşırı iyi,2026-05-31T16:15:43.867554,2026-04-25T02:30:43.867554,Twitter,,,ef2662f48cc36fdb,Organik
+P-0203,16d67631b674,4s kuralının geçerliliğini bir kez daha gösteren twit şeysi.,2026-06-17T19:22:43.867554,2026-04-15T02:30:43.867554,Twitter,,,5b076ea55c026766,Organik
+P-0199,86a95e199421, akhisar fener ztk final maçı özetini izledim hasan ali kafana sokam beyinsiz mal ,2026-06-17T07:24:43.867554,2026-02-19T02:30:43.867554,Twitter,,,6a2b97a380229de6,Organik
+P-0213,8b6d5b997b72,Hergün Cuma namazına gitmiyor en azından İyi tarafından bakmak lazım Onu da diyenler var ,2026-06-18T09:15:43.867554,2026-02-12T02:30:43.867554,Twitter,,P-0201,5468145e873250ae,Organik
+P-0008,ededb058504f,Bir kere havuzu kurunca bakımı en kolay bitki. Derin bir saksıda bile olur,2026-05-31T07:57:43.867554,2026-03-23T02:30:43.867554,Twitter,4c101e93d6c2,,b8a45691b4edd03b,Organik
+P-0113,8238e427683a, Köpek otopsiye alındı Anal bölgede parçalanma kaburgalarda kırık akciğerlerinde ve boğazında tahribat var,2026-06-08T19:49:43.867554,2026-03-07T02:30:43.867554,Twitter,,,c785ca5e3c10afd4,Organik
+P-0062,b0353b085c58,Sesinin titrediği an yine de sevindiğini belirtmek için kasıtlı gülümsemesi... Kalbimi bıraktım bu videoya,2026-06-03T22:06:43.867554,2026-01-11T02:30:43.867554,Twitter,,,ff46e4be5b8978b2,Organik
+P-0227,cf2bff7179ef, Bir meyhane reklamı ancak bu kadar mükemmel yapılabilirdi ,2026-06-20T23:51:43.867554,2026-03-04T02:30:43.867554,Twitter,,,8f84cd40e29f0017,Organik
+P-0030,4ebea9475ac7,Deprem dedektorleri olagan aktivite tespit etti,2026-06-26T11:49:43.867554,2026-06-26T02:30:43.867554,Twitter,a8d943b1eb88,P-0024,7201c382ac2bfd21,Kampanya2
+P-0005,ad02fc85bb76,Yetkililer elektrik kesintisi hakkinda sessizligini koruyor,2026-06-27T09:46:43.867554,2026-06-25T02:30:43.867554,Twitter,c06347724a46,,c432d7d6f7364f91,Kampanya1
+P-0217,4c101e93d6c2,en çok canımı sıkan şeyse zaten hiphop culture içerisinde bir yere sahip olmayan bu orospu ve orospu avcıları,2026-06-19T09:21:43.867554,2026-01-02T02:30:43.867554,Twitter,866e41084f21,,24c54fb5a484e13d,Organik
+P-0289,86a95e199421,kadının eli değerse güzelleşir herşey yilmek kursiyerlerimizin birbirinden güzel sanat eserleriyle bizleri buluşturuyor,2026-06-27T22:59:43.867554,2026-02-19T02:30:43.867554,Haber,,,e22dc5cf070e3b77,Organik
+P-0172,13e059b5eb28, Ben senin kocanım düzgün konuşcaksın senin allah belanı versin beni dinleyeceksin öldürürüm bak kızım seni Amın evladı sene öncesine kadar o odada perde için sen hangisini istersen onu alalım diyodun nikah basınca tapulu malın mı oldu am biti ,2026-06-14T11:34:43.867554,2026-04-02T02:30:43.867554,Telegram,,,80c9adb9b81862d2,Organik
+P-0128,b8be3d182d40,Maskeni sikem o ne laaaa ,2026-06-10T14:42:43.867554,2026-03-15T02:30:43.867554,Telegram,624a0eefbc27,,15dfdca616dfdea4,Organik
+P-0156,04fa704f5073,Yuh bu uygulama fikri aklıma nasıl gelmedi aşırı iyi,2026-06-12T17:57:43.867554,2026-05-17T02:30:43.867554,Twitter,,,cf0cf8db2c69317c,Organik
+P-0201,ef8ac0e4c078,Demir gibiyim yere çak girerim,2026-06-17T08:51:43.867554,2026-04-02T02:30:43.867554,Twitter,,,384dcdf3447d9ccc,Organik
+P-0270,9f9c95cb326c, Ayıplı mallarda haklarınızı biliyor musunuz,2026-06-26T17:27:43.867554,2026-01-18T02:30:43.867554,Haber,,P-0267,b29bf345de1d86dd,Organik
+P-0083,100b70733ef1,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T22:23:43.867554,2026-06-26T02:30:43.867554,Telegram,,P-0080,8003a102cefa7b4e,Kampanya2
+P-0035,624a0eefbc27,"Netflixin, torunun dedeye helal olmasının, cinsiyetlerin, dinlerin konuşulmadığı bir yerden suni gündemlerle uyutulmaya çalışılan ülkeme bakmak öyle acı ki.Bir pazar işte herkes bahçesini suluyor, barbekü yapıyor ben de düşünüyorum içinden çıkamıyorum",2026-06-01T15:08:43.867554,2026-04-10T02:30:43.867554,Twitter,,,619a96f2bf6a03fe,Organik
+P-0069,3cf7c5caa871,fikret orman gs sadece 200 lerde avrupa da basarili olmadi o sadece basarilarimizin bi kismi,2026-06-04T20:32:43.867554,2026-05-07T02:30:43.867554,Telegram,,,e9ad07ee27c4f73d,Organik
+P-0294,524546f1feff,BU TAGDEKİ HERKESİ BİRBİRİYLE YAKIŞTIRMAYA BAŞLADIM AMA ÇÖPÇATANLIK İŞİNİ ORTAOKULDA AŞIK OLDUĞUM ÇOCUK YAKIN ARKADAŞIMA TUTULUP BENDEN AYARLAMAMI İSTEYİNCE ONLARIDA AYARLAYIP ZİRVEDE BIRAKTIM SOME GAVAT PROBLEMS ,2026-06-28T16:56:43.867554,2026-01-22T02:30:43.867554,Twitter,86a95e199421,,aa986a14ffff5d09,Organik
+P-0054,18006da415a9,Cengiz bey dönek ve satılık iki aşşağılık ahmakla değerli vaktini harcamışdır ağzınıza sağlık zahmet olmuş ,2026-06-03T08:45:43.867554,2026-02-04T02:30:43.867554,Twitter,,,554fda64b25642c0,Organik
+P-0224,0019ac0ce900,işi gücü bırakıp ellerimi çeneme koyup saatlerce seni izleyebilirim çok güzelsin,2026-06-20T11:48:43.867554,2026-03-26T02:30:43.867554,Twitter,,,c44dec1ab7877e5e,Organik
+P-0081,cdbb4249faf4,ABD'li uzmanlar 7.4 buyuklugunde deprem uyarisi yapti,2026-06-26T21:39:43.867554,2026-06-26T02:30:43.867554,Haber,,,d60194a8fb0300fa,Kampanya2
+P-0085,cdbb4249faf4,Deprem sigortasi yaptirmayanlar pisman olacak,2026-06-26T22:16:43.867554,2026-06-26T02:30:43.867554,Haber,,P-0077,7201c382ac2bfd21,Kampanya2
+P-0063,fa36f16e572b,helal olsun başakşehir e tebrikler bizim gerizeka tudor da acayip kadro sürsün amk,2026-06-03T22:30:43.867554,2026-01-28T02:30:43.867554,Haber,,,57f39248517424a2,Organik
+P-0019,100b70733ef1,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T09:23:43.867554,2026-06-26T02:30:43.867554,Haber,,,8003a102cefa7b4e,Kampanya2
+P-0091,cf2bff7179ef,Maksimum yaşında veletsin siktir git senin belanı sikerim Amk mun beyinsizi Kaç yıldır Fenerbahçe izliyorum ben Fenerbahçeye yakışan oyuncunun kim olduğunu bilirim Sahada göt gezdirip tombala çeken Ozan değil mücadele veren ter akıtan Jailson hak eder formayı ,2026-06-06T14:16:43.867554,2026-03-04T02:30:43.867554,Twitter,,,23ae031e0bb879b0,Organik
+P-0159,624a0eefbc27, Kıymetli hemşehrilerim Adana Büyükşehir Belediyesi dün skandal bir olayla daha gündem oldu Borcunu ödeyemeyen Büyükşeh ,2026-06-12T12:03:43.867554,2026-04-10T02:30:43.867554,Telegram,,,187cca52ff9feb8a,Organik
+P-0163,743de3746c60,bu kadar yalaka bu kadar fırıldak paçavra sadece,2026-06-12T11:04:43.867554,2026-01-07T02:30:43.867554,Telegram,,,daed4528cf441937,Organik
+P-0097,42818e9cf793, Ben yi seviyorum artıkın ,2026-06-06T13:23:43.867554,2026-03-09T02:30:43.867554,Twitter,,,b3390d135e7f7f5c,Organik
+P-0053,b3db8c92515d,"Fay hattinda hareketlilik var, bu hafta icinde deprem bekleniyor",2026-06-26T16:06:43.867554,2026-06-26T02:30:43.867554,Twitter,4ebea9475ac7,P-0052,8003a102cefa7b4e,Kampanya2
